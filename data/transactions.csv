@@ -1,0 +1,1317 @@
+user_id,date,merchant,category,amount,type,day_of_week,month,transaction_id
+USR001,2025-12-21,Subway,food,263.03,debit,Sunday,12,TXN000000
+USR001,2025-12-21,KFC,food,687.35,debit,Sunday,12,TXN000001
+USR001,2025-12-22,Dominos,food,667.14,debit,Monday,12,TXN000002
+USR001,2025-12-22,Swiggy,food,260.76,debit,Monday,12,TXN000003
+USR001,2025-12-22,Dominos,food,702.22,debit,Monday,12,TXN000004
+USR001,2025-12-22,DMart,groceries,1558.93,debit,Monday,12,TXN000005
+USR001,2025-12-22,DMart,groceries,678.18,debit,Monday,12,TXN000006
+USR001,2025-12-23,DMart,groceries,3900.53,debit,Tuesday,12,TXN000007
+USR001,2025-12-23,Jio,utilities,2090.57,debit,Tuesday,12,TXN000008
+USR001,2025-12-23,Amazon,shopping,5900.32,debit,Tuesday,12,TXN000009
+USR001,2025-12-23,BigBasket,groceries,2746.67,debit,Tuesday,12,TXN000010
+USR001,2025-12-24,Practo,healthcare,3344.74,debit,Wednesday,12,TXN000011
+USR001,2025-12-24,Ola,transport,149.42,debit,Wednesday,12,TXN000012
+USR001,2025-12-24,Uber,transport,377.2,debit,Wednesday,12,TXN000013
+USR001,2025-12-25,Rapido,transport,422.25,debit,Thursday,12,TXN000014
+USR001,2025-12-25,Zomato,food,771.14,debit,Thursday,12,TXN000015
+USR001,2025-12-25,PVR Cinemas,entertainment,1250.52,debit,Thursday,12,TXN000016
+USR001,2025-12-26,Subway,food,254.35,debit,Friday,12,TXN000017
+USR001,2025-12-26,Hotstar,entertainment,742.39,debit,Friday,12,TXN000018
+USR001,2025-12-26,Reliance Fresh,groceries,3056.46,debit,Friday,12,TXN000019
+USR001,2025-12-26,Flipkart,shopping,9008.88,debit,Friday,12,TXN000020
+USR001,2025-12-27,Reliance Fresh,groceries,705.7,debit,Saturday,12,TXN000021
+USR001,2025-12-27,KFC,food,569.06,debit,Saturday,12,TXN000022
+USR001,2025-12-27,KFC,food,896.82,debit,Saturday,12,TXN000023
+USR001,2025-12-28,Myntra,shopping,8882.45,debit,Sunday,12,TXN000024
+USR001,2025-12-28,Dominos,food,171.47,debit,Sunday,12,TXN000025
+USR001,2025-12-29,Udemy,education,1948.64,debit,Monday,12,TXN000026
+USR001,2025-12-29,Practo,healthcare,2055.34,debit,Monday,12,TXN000027
+USR001,2025-12-30,Swiggy,food,718.47,debit,Tuesday,12,TXN000028
+USR001,2025-12-30,BESCOM,utilities,1537.47,debit,Tuesday,12,TXN000029
+USR001,2025-12-30,DMart,groceries,3737.66,debit,Tuesday,12,TXN000030
+USR001,2025-12-31,Swiggy,food,150.24,debit,Wednesday,12,TXN000031
+USR001,2025-12-31,Medplus,healthcare,3913.04,debit,Wednesday,12,TXN000032
+USR001,2025-12-31,Hotstar,entertainment,279.75,debit,Wednesday,12,TXN000033
+USR001,2026-01-01,Bonus Credit,salary,71106.95,credit,Thursday,1,TXN000034
+USR001,2026-01-01,Coursera,education,2694.46,debit,Thursday,1,TXN000035
+USR001,2026-01-01,Netflix,entertainment,713.34,debit,Thursday,1,TXN000036
+USR001,2026-01-01,BESCOM,utilities,694.97,debit,Thursday,1,TXN000037
+USR001,2026-01-01,Flipkart,shopping,6006.59,debit,Thursday,1,TXN000038
+USR001,2026-01-01,Amazon,shopping,369.75,debit,Thursday,1,TXN000039
+USR001,2026-01-02,Dominos,food,501.61,debit,Friday,1,TXN000040
+USR001,2026-01-02,KFC,food,255.67,debit,Friday,1,TXN000041
+USR001,2026-01-02,Namma Metro,transport,358.44,debit,Friday,1,TXN000042
+USR001,2026-01-03,Subway,food,677.84,debit,Saturday,1,TXN000043
+USR001,2026-01-03,McDonald's,food,160.7,debit,Saturday,1,TXN000044
+USR001,2026-01-03,Uber,transport,486.34,debit,Saturday,1,TXN000045
+USR001,2026-01-03,Namma Metro,transport,138.42,debit,Saturday,1,TXN000046
+USR001,2026-01-03,Ola,transport,134.59,debit,Saturday,1,TXN000047
+USR001,2026-01-04,Airtel,utilities,135.42,debit,Sunday,1,TXN000048
+USR001,2026-01-04,Medplus,healthcare,706.93,debit,Sunday,1,TXN000049
+USR001,2026-01-04,Zomato,food,789.01,debit,Sunday,1,TXN000050
+USR001,2026-01-04,Myntra,shopping,3976.04,debit,Sunday,1,TXN000051
+USR001,2026-01-04,DMart,groceries,3728.12,debit,Sunday,1,TXN000052
+USR001,2026-01-05,PG Rent,rent,19842.06,debit,Monday,1,TXN000053
+USR001,2026-01-05,KFC,food,693.34,debit,Monday,1,TXN000054
+USR001,2026-01-05,KFC,food,470.97,debit,Monday,1,TXN000055
+USR001,2026-01-05,Udemy,education,1365.88,debit,Monday,1,TXN000056
+USR001,2026-01-05,BigBasket,groceries,3449.97,debit,Monday,1,TXN000057
+USR001,2026-01-05,BigBasket,groceries,2798.29,debit,Monday,1,TXN000058
+USR001,2026-01-06,DMart,groceries,2732.28,debit,Tuesday,1,TXN000059
+USR001,2026-01-06,Subway,food,846.46,debit,Tuesday,1,TXN000060
+USR001,2026-01-06,Zomato,food,337.63,debit,Tuesday,1,TXN000061
+USR001,2026-01-07,Ola,transport,384.06,debit,Wednesday,1,TXN000062
+USR001,2026-01-07,Spotify,entertainment,202.57,debit,Wednesday,1,TXN000063
+USR001,2026-01-07,Netflix,entertainment,285.44,debit,Wednesday,1,TXN000064
+USR001,2026-01-07,Zomato,food,801.0,debit,Wednesday,1,TXN000065
+USR001,2026-01-08,Practo,healthcare,80.9,debit,Thursday,1,TXN000066
+USR001,2026-01-08,Flipkart,shopping,9338.03,debit,Thursday,1,TXN000067
+USR001,2026-01-08,Blinkit,groceries,1278.52,debit,Thursday,1,TXN000068
+USR001,2026-01-08,Unacademy,education,1997.92,debit,Thursday,1,TXN000069
+USR001,2026-01-08,Myntra,shopping,3625.94,debit,Thursday,1,TXN000070
+USR001,2026-01-09,Zomato,food,116.15,debit,Friday,1,TXN000071
+USR001,2026-01-09,PVR Cinemas,entertainment,991.96,debit,Friday,1,TXN000072
+USR001,2026-01-09,Swiggy,food,532.38,debit,Friday,1,TXN000073
+USR001,2026-01-09,Blinkit,groceries,713.93,debit,Friday,1,TXN000074
+USR001,2026-01-09,LPG Booking,utilities,1409.42,debit,Friday,1,TXN000075
+USR001,2026-01-10,FD Deposit,savings,3925.22,debit,Saturday,1,TXN000076
+USR001,2026-01-10,McDonald's,food,877.2,debit,Saturday,1,TXN000077
+USR001,2026-01-10,Ola,transport,149.74,debit,Saturday,1,TXN000078
+USR001,2026-01-10,PVR Cinemas,entertainment,595.15,debit,Saturday,1,TXN000079
+USR001,2026-01-11,PVR Cinemas,entertainment,1219.84,debit,Sunday,1,TXN000080
+USR001,2026-01-11,McDonald's,food,100.32,debit,Sunday,1,TXN000081
+USR001,2026-01-11,Subway,food,721.56,debit,Sunday,1,TXN000082
+USR001,2026-01-12,Zomato,food,795.18,debit,Monday,1,TXN000083
+USR001,2026-01-12,Jio,utilities,578.97,debit,Monday,1,TXN000084
+USR001,2026-01-12,Zomato,food,330.26,debit,Monday,1,TXN000085
+USR001,2026-01-13,McDonald's,food,788.77,debit,Tuesday,1,TXN000086
+USR001,2026-01-13,Subway,food,367.94,debit,Tuesday,1,TXN000087
+USR001,2026-01-13,Ola,transport,589.26,debit,Tuesday,1,TXN000088
+USR001,2026-01-14,Apollo Pharmacy,healthcare,2343.33,debit,Wednesday,1,TXN000089
+USR001,2026-01-14,Subway,food,168.89,debit,Wednesday,1,TXN000090
+USR001,2026-01-15,Namma Metro,transport,138.34,debit,Thursday,1,TXN000091
+USR001,2026-01-15,Unacademy,education,509.3,debit,Thursday,1,TXN000092
+USR001,2026-01-15,Subway,food,643.22,debit,Thursday,1,TXN000093
+USR001,2026-01-15,Netflix,entertainment,1038.88,debit,Thursday,1,TXN000094
+USR001,2026-01-16,DMart,groceries,2176.35,debit,Friday,1,TXN000095
+USR001,2026-01-16,Flipkart,shopping,4203.28,debit,Friday,1,TXN000096
+USR001,2026-01-16,Dominos,food,237.31,debit,Friday,1,TXN000097
+USR001,2026-01-16,Spotify,entertainment,1048.25,debit,Friday,1,TXN000098
+USR001,2026-01-17,Reliance Fresh,groceries,2722.41,debit,Saturday,1,TXN000099
+USR001,2026-01-17,Subway,food,634.01,debit,Saturday,1,TXN000100
+USR001,2026-01-17,KFC,food,219.15,debit,Saturday,1,TXN000101
+USR001,2026-01-17,Ola,transport,408.4,debit,Saturday,1,TXN000102
+USR001,2026-01-17,DMart,groceries,3328.17,debit,Saturday,1,TXN000103
+USR001,2026-01-18,BESCOM,utilities,2461.45,debit,Sunday,1,TXN000104
+USR001,2026-01-18,KFC,food,453.44,debit,Sunday,1,TXN000105
+USR001,2026-01-18,Dominos,food,239.44,debit,Sunday,1,TXN000106
+USR001,2026-01-19,Zomato,food,167.4,debit,Monday,1,TXN000107
+USR001,2026-01-19,Ajio,shopping,8099.87,debit,Monday,1,TXN000108
+USR001,2026-01-19,Swiggy,food,121.18,debit,Monday,1,TXN000109
+USR001,2026-01-19,LPG Booking,utilities,1195.51,debit,Monday,1,TXN000110
+USR001,2026-01-19,BWSSB,utilities,2470.94,debit,Monday,1,TXN000111
+USR001,2026-01-20,Practo,healthcare,1073.81,debit,Tuesday,1,TXN000112
+USR001,2026-01-20,Blinkit,groceries,3133.51,debit,Tuesday,1,TXN000113
+USR001,2026-01-20,Spotify,entertainment,484.44,debit,Tuesday,1,TXN000114
+USR001,2026-01-20,Nykaa,shopping,2574.59,debit,Tuesday,1,TXN000115
+USR001,2026-01-20,Namma Metro,transport,75.93,debit,Tuesday,1,TXN000116
+USR001,2026-01-21,Flipkart,shopping,5563.33,debit,Wednesday,1,TXN000117
+USR001,2026-01-21,KFC,food,762.97,debit,Wednesday,1,TXN000118
+USR001,2026-01-21,Indian Oil,transport,4282.33,debit,Wednesday,1,TXN000119
+USR001,2026-01-22,Indian Oil,transport,506.37,debit,Thursday,1,TXN000120
+USR001,2026-01-22,PVR Cinemas,entertainment,1219.82,debit,Thursday,1,TXN000121
+USR001,2026-01-22,Swiggy,food,259.93,debit,Thursday,1,TXN000122
+USR001,2026-01-22,Namma Metro,transport,251.65,debit,Thursday,1,TXN000123
+USR001,2026-01-22,Hotstar,entertainment,1113.85,debit,Thursday,1,TXN000124
+USR001,2026-01-23,PVR Cinemas,entertainment,1028.2,debit,Friday,1,TXN000125
+USR001,2026-01-23,BigBasket,groceries,802.09,debit,Friday,1,TXN000126
+USR001,2026-01-24,Namma Metro,transport,246.1,debit,Saturday,1,TXN000127
+USR001,2026-01-24,Swiggy,food,286.86,debit,Saturday,1,TXN000128
+USR001,2026-01-24,Rapido,transport,456.94,debit,Saturday,1,TXN000129
+USR001,2026-01-24,BESCOM,utilities,638.13,debit,Saturday,1,TXN000130
+USR001,2026-01-25,Hotstar,entertainment,128.53,debit,Sunday,1,TXN000131
+USR001,2026-01-25,Zomato,food,468.32,debit,Sunday,1,TXN000132
+USR001,2026-01-26,Myntra,shopping,1410.97,debit,Monday,1,TXN000133
+USR001,2026-01-26,Jio,utilities,359.44,debit,Monday,1,TXN000134
+USR001,2026-01-26,Dominos,food,552.15,debit,Monday,1,TXN000135
+USR001,2026-01-26,BigBasket,groceries,1767.62,debit,Monday,1,TXN000136
+USR001,2026-01-26,Flipkart,shopping,6043.35,debit,Monday,1,TXN000137
+USR001,2026-01-27,Nykaa,shopping,6937.31,debit,Tuesday,1,TXN000138
+USR001,2026-01-27,Namma Metro,transport,476.1,debit,Tuesday,1,TXN000139
+USR001,2026-01-28,McDonald's,food,481.97,debit,Wednesday,1,TXN000140
+USR001,2026-01-28,Blinkit,groceries,2651.66,debit,Wednesday,1,TXN000141
+USR001,2026-01-28,Subway,food,437.1,debit,Wednesday,1,TXN000142
+USR001,2026-01-28,Indian Oil,transport,183.95,debit,Wednesday,1,TXN000143
+USR001,2026-01-29,Namma Metro,transport,562.73,debit,Thursday,1,TXN000144
+USR001,2026-01-29,LPG Booking,utilities,685.27,debit,Thursday,1,TXN000145
+USR001,2026-01-29,Reliance Fresh,groceries,2772.3,debit,Thursday,1,TXN000146
+USR001,2026-01-29,Uber,transport,515.04,debit,Thursday,1,TXN000147
+USR001,2026-01-29,McDonald's,food,370.96,debit,Thursday,1,TXN000148
+USR001,2026-01-30,Blinkit,groceries,1803.78,debit,Friday,1,TXN000149
+USR001,2026-01-30,Reliance Fresh,groceries,2855.25,debit,Friday,1,TXN000150
+USR001,2026-01-30,Dominos,food,2316.68,debit,Friday,1,TXN000151
+USR001,2026-01-30,KFC,food,647.27,debit,Friday,1,TXN000152
+USR001,2026-01-31,Rapido,transport,218.55,debit,Saturday,1,TXN000153
+USR001,2026-01-31,Blinkit,groceries,1434.51,debit,Saturday,1,TXN000154
+USR001,2026-01-31,Uber,transport,209.86,debit,Saturday,1,TXN000155
+USR001,2026-01-31,Myntra,shopping,2157.95,debit,Saturday,1,TXN000156
+USR001,2026-02-01,Freelance Payment,salary,73583.48,credit,Sunday,2,TXN000157
+USR001,2026-02-01,Udemy,education,2162.47,debit,Sunday,2,TXN000158
+USR001,2026-02-01,Practo,healthcare,1133.53,debit,Sunday,2,TXN000159
+USR001,2026-02-01,Dominos,food,651.88,debit,Sunday,2,TXN000160
+USR001,2026-02-01,Namma Metro,transport,454.5,debit,Sunday,2,TXN000161
+USR001,2026-02-02,Indian Oil,transport,67.25,debit,Monday,2,TXN000162
+USR001,2026-02-02,Udemy,education,3961.95,debit,Monday,2,TXN000163
+USR001,2026-02-02,Swiggy,food,745.14,debit,Monday,2,TXN000164
+USR001,2026-02-02,1mg,healthcare,3975.98,debit,Monday,2,TXN000165
+USR001,2026-02-02,Zomato,food,577.18,debit,Monday,2,TXN000166
+USR001,2026-02-03,Ola,transport,383.99,debit,Tuesday,2,TXN000167
+USR001,2026-02-03,Uber,transport,570.13,debit,Tuesday,2,TXN000168
+USR001,2026-02-03,Medplus,healthcare,1095.35,debit,Tuesday,2,TXN000169
+USR001,2026-02-03,Udemy,education,1455.97,debit,Tuesday,2,TXN000170
+USR001,2026-02-03,Namma Metro,transport,262.86,debit,Tuesday,2,TXN000171
+USR001,2026-02-04,McDonald's,food,138.37,debit,Wednesday,2,TXN000172
+USR001,2026-02-04,Subway,food,726.02,debit,Wednesday,2,TXN000173
+USR001,2026-02-04,Swiggy,food,739.2,debit,Wednesday,2,TXN000174
+USR001,2026-02-04,Practo,healthcare,2201.02,debit,Wednesday,2,TXN000175
+USR001,2026-02-05,House Rent,rent,9213.97,debit,Thursday,2,TXN000176
+USR001,2026-02-05,BWSSB,utilities,2310.86,debit,Thursday,2,TXN000177
+USR001,2026-02-05,DMart,groceries,2848.11,debit,Thursday,2,TXN000178
+USR001,2026-02-05,BESCOM,utilities,1301.13,debit,Thursday,2,TXN000179
+USR001,2026-02-06,Hotstar,entertainment,945.2,debit,Friday,2,TXN000180
+USR001,2026-02-06,Nykaa,shopping,9630.54,debit,Friday,2,TXN000181
+USR001,2026-02-07,Udemy,education,1982.31,debit,Saturday,2,TXN000182
+USR001,2026-02-07,Myntra,shopping,4863.86,debit,Saturday,2,TXN000183
+USR001,2026-02-08,Coursera,education,5829.8,debit,Sunday,2,TXN000184
+USR001,2026-02-08,Uber,transport,219.99,debit,Sunday,2,TXN000185
+USR001,2026-02-08,Jio,utilities,891.53,debit,Sunday,2,TXN000186
+USR001,2026-02-09,LPG Booking,utilities,2428.44,debit,Monday,2,TXN000187
+USR001,2026-02-09,Reliance Fresh,groceries,25066.2,debit,Monday,2,TXN000188
+USR001,2026-02-09,Rapido,transport,265.55,debit,Monday,2,TXN000189
+USR001,2026-02-09,Namma Metro,transport,384.9,debit,Monday,2,TXN000190
+USR001,2026-02-09,Indian Oil,transport,463.19,debit,Monday,2,TXN000191
+USR001,2026-02-10,SIP Transfer,savings,14059.75,debit,Tuesday,2,TXN000192
+USR001,2026-02-10,Netflix,entertainment,1093.7,debit,Tuesday,2,TXN000193
+USR001,2026-02-10,Ola,transport,344.78,debit,Tuesday,2,TXN000194
+USR001,2026-02-10,Zomato,food,458.39,debit,Tuesday,2,TXN000195
+USR001,2026-02-10,DMart,groceries,2143.99,debit,Tuesday,2,TXN000196
+USR001,2026-02-10,BWSSB,utilities,1097.18,debit,Tuesday,2,TXN000197
+USR001,2026-02-11,Uber,transport,371.65,debit,Wednesday,2,TXN000198
+USR001,2026-02-11,Dominos,food,788.5,debit,Wednesday,2,TXN000199
+USR001,2026-02-11,McDonald's,food,358.7,debit,Wednesday,2,TXN000200
+USR001,2026-02-12,Dominos,food,561.29,debit,Thursday,2,TXN000201
+USR001,2026-02-12,Dominos,food,789.51,debit,Thursday,2,TXN000202
+USR001,2026-02-13,Uber,transport,525.67,debit,Friday,2,TXN000203
+USR001,2026-02-13,BWSSB,utilities,1472.31,debit,Friday,2,TXN000204
+USR001,2026-02-13,Namma Metro,transport,54.88,debit,Friday,2,TXN000205
+USR001,2026-02-13,Hotstar,entertainment,640.51,debit,Friday,2,TXN000206
+USR001,2026-02-14,Coursera,education,5147.72,debit,Saturday,2,TXN000207
+USR001,2026-02-14,Subway,food,92.59,debit,Saturday,2,TXN000208
+USR001,2026-02-14,Coursera,education,5834.76,debit,Saturday,2,TXN000209
+USR001,2026-02-14,Ola,transport,222.98,debit,Saturday,2,TXN000210
+USR001,2026-02-14,KFC,food,778.45,debit,Saturday,2,TXN000211
+USR001,2026-02-15,Unacademy,education,3896.03,debit,Sunday,2,TXN000212
+USR001,2026-02-15,BigBasket,groceries,3707.44,debit,Sunday,2,TXN000213
+USR001,2026-02-15,Netflix,entertainment,707.56,debit,Sunday,2,TXN000214
+USR001,2026-02-15,Ola,transport,282.9,debit,Sunday,2,TXN000215
+USR001,2026-02-15,DMart,groceries,470.17,debit,Sunday,2,TXN000216
+USR001,2026-02-16,Ola,transport,481.74,debit,Monday,2,TXN000217
+USR001,2026-02-16,Subway,food,579.78,debit,Monday,2,TXN000218
+USR001,2026-02-16,Blinkit,groceries,1191.07,debit,Monday,2,TXN000219
+USR001,2026-02-16,Reliance Fresh,groceries,1159.1,debit,Monday,2,TXN000220
+USR001,2026-02-17,Myntra,shopping,5602.0,debit,Tuesday,2,TXN000221
+USR001,2026-02-17,PVR Cinemas,entertainment,1482.71,debit,Tuesday,2,TXN000222
+USR001,2026-02-17,Rapido,transport,423.48,debit,Tuesday,2,TXN000223
+USR001,2026-02-17,Dominos,food,243.36,debit,Tuesday,2,TXN000224
+USR001,2026-02-18,McDonald's,food,551.35,debit,Wednesday,2,TXN000225
+USR001,2026-02-18,Reliance Fresh,groceries,381.18,debit,Wednesday,2,TXN000226
+USR001,2026-02-19,McDonald's,food,826.71,debit,Thursday,2,TXN000227
+USR001,2026-02-19,Practo,healthcare,3114.18,debit,Thursday,2,TXN000228
+USR001,2026-02-19,Jio,utilities,625.61,debit,Thursday,2,TXN000229
+USR001,2026-02-19,Unacademy,education,4227.7,debit,Thursday,2,TXN000230
+USR001,2026-02-20,DMart,groceries,1443.05,debit,Friday,2,TXN000231
+USR001,2026-02-20,Spotify,entertainment,1125.3,debit,Friday,2,TXN000232
+USR001,2026-02-20,Blinkit,groceries,1508.86,debit,Friday,2,TXN000233
+USR001,2026-02-21,Airtel,utilities,1304.31,debit,Saturday,2,TXN000234
+USR001,2026-02-21,1mg,healthcare,1065.03,debit,Saturday,2,TXN000235
+USR001,2026-02-21,Rapido,transport,581.41,debit,Saturday,2,TXN000236
+USR001,2026-02-22,Namma Metro,transport,459.87,debit,Sunday,2,TXN000237
+USR001,2026-02-22,McDonald's,food,873.16,debit,Sunday,2,TXN000238
+USR001,2026-02-23,Jio,utilities,1387.77,debit,Monday,2,TXN000239
+USR001,2026-02-23,McDonald's,food,559.34,debit,Monday,2,TXN000240
+USR001,2026-02-24,Myntra,shopping,6309.6,debit,Tuesday,2,TXN000241
+USR001,2026-02-24,Ola,transport,551.7,debit,Tuesday,2,TXN000242
+USR001,2026-02-25,Netflix,entertainment,526.11,debit,Wednesday,2,TXN000243
+USR001,2026-02-25,Namma Metro,transport,163.84,debit,Wednesday,2,TXN000244
+USR001,2026-02-25,Indian Oil,transport,288.58,debit,Wednesday,2,TXN000245
+USR001,2026-02-25,Zomato,food,423.68,debit,Wednesday,2,TXN000246
+USR001,2026-02-25,PVR Cinemas,entertainment,1339.58,debit,Wednesday,2,TXN000247
+USR001,2026-02-26,Spotify,entertainment,430.56,debit,Thursday,2,TXN000248
+USR001,2026-02-26,McDonald's,food,526.46,debit,Thursday,2,TXN000249
+USR001,2026-02-26,Amazon,shopping,887.34,debit,Thursday,2,TXN000250
+USR001,2026-02-26,Swiggy,food,858.19,debit,Thursday,2,TXN000251
+USR001,2026-02-26,Indian Oil,transport,407.78,debit,Thursday,2,TXN000252
+USR001,2026-02-27,Zomato,food,890.83,debit,Friday,2,TXN000253
+USR001,2026-02-27,Uber,transport,69.11,debit,Friday,2,TXN000254
+USR001,2026-02-28,Jio,utilities,1992.75,debit,Saturday,2,TXN000255
+USR001,2026-02-28,Zomato,food,783.89,debit,Saturday,2,TXN000256
+USR001,2026-02-28,BESCOM,utilities,1396.52,debit,Saturday,2,TXN000257
+USR001,2026-03-01,Freelance Payment,salary,84657.92,credit,Sunday,3,TXN000258
+USR001,2026-03-01,Swiggy,food,345.49,debit,Sunday,3,TXN000259
+USR001,2026-03-01,BESCOM,utilities,404.22,debit,Sunday,3,TXN000260
+USR001,2026-03-01,McDonald's,food,691.45,debit,Sunday,3,TXN000261
+USR001,2026-03-02,Indian Oil,transport,380.61,debit,Monday,3,TXN000262
+USR001,2026-03-02,Swiggy,food,327.34,debit,Monday,3,TXN000263
+USR001,2026-03-03,Unacademy,education,2844.5,debit,Tuesday,3,TXN000264
+USR001,2026-03-03,Apollo Pharmacy,healthcare,3643.32,debit,Tuesday,3,TXN000265
+USR001,2026-03-04,DMart,groceries,2328.92,debit,Wednesday,3,TXN000266
+USR001,2026-03-04,Swiggy,food,452.05,debit,Wednesday,3,TXN000267
+USR001,2026-03-04,Subway,food,730.34,debit,Wednesday,3,TXN000268
+USR001,2026-03-04,Blinkit,groceries,2708.39,debit,Wednesday,3,TXN000269
+USR001,2026-03-05,PG Rent,rent,15676.43,debit,Thursday,3,TXN000270
+USR001,2026-03-05,Rapido,transport,445.88,debit,Thursday,3,TXN000271
+USR001,2026-03-05,Airtel,utilities,1696.26,debit,Thursday,3,TXN000272
+USR001,2026-03-05,Ola,transport,421.49,debit,Thursday,3,TXN000273
+USR001,2026-03-06,KFC,food,685.81,debit,Friday,3,TXN000274
+USR001,2026-03-06,KFC,food,129.18,debit,Friday,3,TXN000275
+USR001,2026-03-07,Amazon,shopping,4402.49,debit,Saturday,3,TXN000276
+USR001,2026-03-07,Rapido,transport,581.99,debit,Saturday,3,TXN000277
+USR001,2026-03-07,Medplus,healthcare,459.22,debit,Saturday,3,TXN000278
+USR001,2026-03-07,Netflix,entertainment,1019.43,debit,Saturday,3,TXN000279
+USR001,2026-03-08,Apollo Pharmacy,healthcare,3238.52,debit,Sunday,3,TXN000280
+USR001,2026-03-08,Rapido,transport,377.13,debit,Sunday,3,TXN000281
+USR001,2026-03-08,Jio,utilities,169.49,debit,Sunday,3,TXN000282
+USR001,2026-03-08,Blinkit,groceries,3709.69,debit,Sunday,3,TXN000283
+USR001,2026-03-09,Blinkit,groceries,2642.74,debit,Monday,3,TXN000284
+USR001,2026-03-09,Uber,transport,244.43,debit,Monday,3,TXN000285
+USR001,2026-03-09,KFC,food,383.44,debit,Monday,3,TXN000286
+USR001,2026-03-10,FD Deposit,savings,3104.44,debit,Tuesday,3,TXN000287
+USR001,2026-03-10,Dominos,food,120.81,debit,Tuesday,3,TXN000288
+USR001,2026-03-10,BWSSB,utilities,1688.65,debit,Tuesday,3,TXN000289
+USR001,2026-03-11,Subway,food,636.36,debit,Wednesday,3,TXN000290
+USR001,2026-03-11,LPG Booking,utilities,840.21,debit,Wednesday,3,TXN000291
+USR001,2026-03-11,Zomato,food,124.92,debit,Wednesday,3,TXN000292
+USR001,2026-03-11,Rapido,transport,467.39,debit,Wednesday,3,TXN000293
+USR001,2026-03-11,Zomato,food,2439.25,debit,Wednesday,3,TXN000294
+USR001,2026-03-12,Ola,transport,505.01,debit,Thursday,3,TXN000295
+USR001,2026-03-12,Ajio,shopping,4151.59,debit,Thursday,3,TXN000296
+USR001,2026-03-12,DMart,groceries,369.34,debit,Thursday,3,TXN000297
+USR001,2026-03-13,Reliance Fresh,groceries,1501.64,debit,Friday,3,TXN000298
+USR001,2026-03-13,Amazon,shopping,8370.65,debit,Friday,3,TXN000299
+USR001,2026-03-13,Namma Metro,transport,278.93,debit,Friday,3,TXN000300
+USR001,2026-03-13,Dominos,food,562.87,debit,Friday,3,TXN000301
+USR001,2026-03-13,Zomato,food,793.83,debit,Friday,3,TXN000302
+USR001,2026-03-14,Jio,utilities,565.37,debit,Saturday,3,TXN000303
+USR001,2026-03-14,Zomato,food,676.45,debit,Saturday,3,TXN000304
+USR001,2026-03-14,Blinkit,groceries,1174.19,debit,Saturday,3,TXN000305
+USR001,2026-03-14,BigBasket,groceries,941.95,debit,Saturday,3,TXN000306
+USR001,2026-03-15,Unacademy,education,3600.55,debit,Sunday,3,TXN000307
+USR001,2026-03-15,DMart,groceries,3719.37,debit,Sunday,3,TXN000308
+USR001,2026-03-15,Uber,transport,522.62,debit,Sunday,3,TXN000309
+USR001,2026-03-16,Dominos,food,496.02,debit,Monday,3,TXN000310
+USR001,2026-03-16,Rapido,transport,51.44,debit,Monday,3,TXN000311
+USR001,2026-03-16,Ola,transport,73.74,debit,Monday,3,TXN000312
+USR001,2026-03-16,Dominos,food,584.31,debit,Monday,3,TXN000313
+USR001,2026-03-16,Subway,food,555.87,debit,Monday,3,TXN000314
+USR001,2026-03-17,Namma Metro,transport,401.55,debit,Tuesday,3,TXN000315
+USR001,2026-03-17,BWSSB,utilities,1303.28,debit,Tuesday,3,TXN000316
+USR001,2026-03-18,Airtel,utilities,2457.73,debit,Wednesday,3,TXN000317
+USR001,2026-03-18,1mg,healthcare,204.61,debit,Wednesday,3,TXN000318
+USR001,2026-03-19,Ola,transport,471.44,debit,Thursday,3,TXN000319
+USR001,2026-03-19,Netflix,entertainment,1204.92,debit,Thursday,3,TXN000320
+USR001,2026-03-19,Namma Metro,transport,217.92,debit,Thursday,3,TXN000321
+USR001,2026-03-20,Subway,food,203.31,debit,Friday,3,TXN000322
+USR001,2026-03-20,1mg,healthcare,608.64,debit,Friday,3,TXN000323
+USR001,2026-03-20,Udemy,education,1209.23,debit,Friday,3,TXN000324
+USR001,2026-03-20,DMart,groceries,1445.45,debit,Friday,3,TXN000325
+USR001,2026-03-21,Ajio,shopping,6948.52,debit,Saturday,3,TXN000326
+USR001,2026-03-21,Airtel,utilities,6912.75,debit,Saturday,3,TXN000327
+USR001,2026-03-21,Flipkart,shopping,3614.8,debit,Saturday,3,TXN000328
+USR001,2026-03-22,Unacademy,education,4834.66,debit,Sunday,3,TXN000329
+USR001,2026-03-22,Swiggy,food,764.8,debit,Sunday,3,TXN000330
+USR001,2026-03-22,KFC,food,622.78,debit,Sunday,3,TXN000331
+USR001,2026-03-23,Blinkit,groceries,2863.53,debit,Monday,3,TXN000332
+USR001,2026-03-23,McDonald's,food,671.37,debit,Monday,3,TXN000333
+USR001,2026-03-23,Dominos,food,634.62,debit,Monday,3,TXN000334
+USR001,2026-03-24,Airtel,utilities,2417.43,debit,Tuesday,3,TXN000335
+USR001,2026-03-24,BWSSB,utilities,982.82,debit,Tuesday,3,TXN000336
+USR001,2026-03-24,Dominos,food,458.58,debit,Tuesday,3,TXN000337
+USR001,2026-03-24,Zomato,food,492.38,debit,Tuesday,3,TXN000338
+USR001,2026-03-25,LPG Booking,utilities,1638.83,debit,Wednesday,3,TXN000339
+USR001,2026-03-25,KFC,food,846.12,debit,Wednesday,3,TXN000340
+USR001,2026-03-25,Zomato,food,777.96,debit,Wednesday,3,TXN000341
+USR001,2026-03-26,Rapido,transport,548.99,debit,Thursday,3,TXN000342
+USR001,2026-03-26,Reliance Fresh,groceries,3742.75,debit,Thursday,3,TXN000343
+USR001,2026-03-26,Apollo Pharmacy,healthcare,2032.93,debit,Thursday,3,TXN000344
+USR001,2026-03-26,Swiggy,food,387.43,debit,Thursday,3,TXN000345
+USR001,2026-03-27,BWSSB,utilities,1770.57,debit,Friday,3,TXN000346
+USR001,2026-03-27,McDonald's,food,1933.33,debit,Friday,3,TXN000347
+USR001,2026-03-27,Subway,food,256.84,debit,Friday,3,TXN000348
+USR001,2026-03-27,Jio,utilities,1561.31,debit,Friday,3,TXN000349
+USR001,2026-03-28,Ola,transport,482.52,debit,Saturday,3,TXN000350
+USR001,2026-03-28,KFC,food,766.08,debit,Saturday,3,TXN000351
+USR001,2026-03-28,Uber,transport,39.37,debit,Saturday,3,TXN000352
+USR001,2026-03-29,Subway,food,547.94,debit,Sunday,3,TXN000353
+USR001,2026-03-29,Swiggy,food,150.2,debit,Sunday,3,TXN000354
+USR001,2026-03-29,Indian Oil,transport,573.44,debit,Sunday,3,TXN000355
+USR001,2026-03-30,Rapido,transport,392.33,debit,Monday,3,TXN000356
+USR001,2026-03-30,Ola,transport,455.97,debit,Monday,3,TXN000357
+USR001,2026-03-31,McDonald's,food,700.48,debit,Tuesday,3,TXN000358
+USR001,2026-03-31,Flipkart,shopping,5596.33,debit,Tuesday,3,TXN000359
+USR001,2026-03-31,Subway,food,760.91,debit,Tuesday,3,TXN000360
+USR001,2026-03-31,Blinkit,groceries,2070.57,debit,Tuesday,3,TXN000361
+USR001,2026-04-01,Salary Credit,salary,78641.8,credit,Wednesday,4,TXN000362
+USR001,2026-04-01,KFC,food,334.26,debit,Wednesday,4,TXN000363
+USR001,2026-04-01,Subway,food,468.19,debit,Wednesday,4,TXN000364
+USR001,2026-04-01,BESCOM,utilities,558.65,debit,Wednesday,4,TXN000365
+USR001,2026-04-01,Netflix,entertainment,1312.12,debit,Wednesday,4,TXN000366
+USR001,2026-04-01,Namma Metro,transport,485.63,debit,Wednesday,4,TXN000367
+USR001,2026-04-02,Netflix,entertainment,1394.03,debit,Thursday,4,TXN000368
+USR001,2026-04-02,Indian Oil,transport,444.44,debit,Thursday,4,TXN000369
+USR001,2026-04-02,Coursera,education,5973.04,debit,Thursday,4,TXN000370
+USR001,2026-04-02,Rapido,transport,213.09,debit,Thursday,4,TXN000371
+USR001,2026-04-02,Namma Metro,transport,204.7,debit,Thursday,4,TXN000372
+USR001,2026-04-03,Ajio,shopping,8739.36,debit,Friday,4,TXN000373
+USR001,2026-04-03,Ola,transport,186.5,debit,Friday,4,TXN000374
+USR001,2026-04-03,McDonald's,food,141.53,debit,Friday,4,TXN000375
+USR001,2026-04-04,Udemy,education,4797.22,debit,Saturday,4,TXN000376
+USR001,2026-04-04,McDonald's,food,273.52,debit,Saturday,4,TXN000377
+USR001,2026-04-04,Blinkit,groceries,1716.56,debit,Saturday,4,TXN000378
+USR001,2026-04-05,Society Maintenance,rent,15648.68,debit,Sunday,4,TXN000379
+USR001,2026-04-05,Uber,transport,256.88,debit,Sunday,4,TXN000380
+USR001,2026-04-05,Airtel,utilities,2405.25,debit,Sunday,4,TXN000381
+USR001,2026-04-05,BigBasket,groceries,2146.46,debit,Sunday,4,TXN000382
+USR001,2026-04-05,Reliance Fresh,groceries,1268.57,debit,Sunday,4,TXN000383
+USR001,2026-04-06,Udemy,education,3201.6,debit,Monday,4,TXN000384
+USR001,2026-04-06,Dominos,food,450.68,debit,Monday,4,TXN000385
+USR001,2026-04-06,Spotify,entertainment,1496.17,debit,Monday,4,TXN000386
+USR001,2026-04-07,Flipkart,shopping,1827.8,debit,Tuesday,4,TXN000387
+USR001,2026-04-07,BigBasket,groceries,3236.68,debit,Tuesday,4,TXN000388
+USR001,2026-04-07,Zomato,food,887.81,debit,Tuesday,4,TXN000389
+USR001,2026-04-07,KFC,food,728.11,debit,Tuesday,4,TXN000390
+USR001,2026-04-08,Namma Metro,transport,67.48,debit,Wednesday,4,TXN000391
+USR001,2026-04-08,Unacademy,education,3391.33,debit,Wednesday,4,TXN000392
+USR001,2026-04-08,Subway,food,140.48,debit,Wednesday,4,TXN000393
+USR001,2026-04-08,Spotify,entertainment,203.83,debit,Wednesday,4,TXN000394
+USR001,2026-04-09,1mg,healthcare,768.75,debit,Thursday,4,TXN000395
+USR001,2026-04-09,BESCOM,utilities,1306.87,debit,Thursday,4,TXN000396
+USR001,2026-04-09,Blinkit,groceries,2216.98,debit,Thursday,4,TXN000397
+USR001,2026-04-10,RD Transfer,savings,14151.59,debit,Friday,4,TXN000398
+USR001,2026-04-10,Indian Oil,transport,512.18,debit,Friday,4,TXN000399
+USR001,2026-04-10,Netflix,entertainment,484.23,debit,Friday,4,TXN000400
+USR001,2026-04-10,Hotstar,entertainment,803.6,debit,Friday,4,TXN000401
+USR001,2026-04-11,Amazon,shopping,8472.54,debit,Saturday,4,TXN000402
+USR001,2026-04-11,Nykaa,shopping,1087.86,debit,Saturday,4,TXN000403
+USR001,2026-04-11,Reliance Fresh,groceries,1279.23,debit,Saturday,4,TXN000404
+USR001,2026-04-12,Namma Metro,transport,195.11,debit,Sunday,4,TXN000405
+USR001,2026-04-12,Reliance Fresh,groceries,1206.05,debit,Sunday,4,TXN000406
+USR001,2026-04-13,Uber,transport,294.73,debit,Monday,4,TXN000407
+USR001,2026-04-13,Myntra,shopping,3332.05,debit,Monday,4,TXN000408
+USR001,2026-04-13,McDonald's,food,879.81,debit,Monday,4,TXN000409
+USR001,2026-04-13,Uber,transport,323.54,debit,Monday,4,TXN000410
+USR001,2026-04-14,Zomato,food,788.61,debit,Tuesday,4,TXN000411
+USR001,2026-04-14,Rapido,transport,493.68,debit,Tuesday,4,TXN000412
+USR001,2026-04-14,KFC,food,235.66,debit,Tuesday,4,TXN000413
+USR001,2026-04-14,Dominos,food,462.79,debit,Tuesday,4,TXN000414
+USR001,2026-04-14,PVR Cinemas,entertainment,132.45,debit,Tuesday,4,TXN000415
+USR001,2026-04-15,Subway,food,485.81,debit,Wednesday,4,TXN000416
+USR001,2026-04-15,Ola,transport,413.34,debit,Wednesday,4,TXN000417
+USR001,2026-04-15,McDonald's,food,774.68,debit,Wednesday,4,TXN000418
+USR001,2026-04-16,BESCOM,utilities,567.17,debit,Thursday,4,TXN000419
+USR001,2026-04-16,Indian Oil,transport,250.22,debit,Thursday,4,TXN000420
+USR001,2026-04-16,Indian Oil,transport,189.44,debit,Thursday,4,TXN000421
+USR001,2026-04-16,Reliance Fresh,groceries,739.6,debit,Thursday,4,TXN000422
+USR001,2026-04-17,LPG Booking,utilities,577.74,debit,Friday,4,TXN000423
+USR001,2026-04-17,Rapido,transport,52.95,debit,Friday,4,TXN000424
+USR001,2026-04-17,Hotstar,entertainment,1225.55,debit,Friday,4,TXN000425
+USR001,2026-04-17,Jio,utilities,1555.03,debit,Friday,4,TXN000426
+USR001,2026-04-18,KFC,food,355.83,debit,Saturday,4,TXN000427
+USR001,2026-04-18,Coursera,education,3194.16,debit,Saturday,4,TXN000428
+USR001,2026-04-18,Amazon,shopping,8212.76,debit,Saturday,4,TXN000429
+USR001,2026-04-18,Subway,food,883.52,debit,Saturday,4,TXN000430
+USR001,2026-04-19,Blinkit,groceries,2725.69,debit,Sunday,4,TXN000431
+USR001,2026-04-19,Zomato,food,671.55,debit,Sunday,4,TXN000432
+USR001,2026-04-20,Zomato,food,95.53,debit,Monday,4,TXN000433
+USR001,2026-04-20,Nykaa,shopping,4305.71,debit,Monday,4,TXN000434
+USR001,2026-04-20,Subway,food,715.48,debit,Monday,4,TXN000435
+USR001,2026-04-20,Hotstar,entertainment,1118.36,debit,Monday,4,TXN000436
+USR001,2026-04-20,Dominos,food,539.93,debit,Monday,4,TXN000437
+USR001,2026-04-21,Rapido,transport,470.03,debit,Tuesday,4,TXN000438
+USR001,2026-04-21,Zomato,food,580.26,debit,Tuesday,4,TXN000439
+USR001,2026-04-21,Spotify,entertainment,490.61,debit,Tuesday,4,TXN000440
+USR001,2026-04-21,Namma Metro,transport,469.57,debit,Tuesday,4,TXN000441
+USR001,2026-04-21,Rapido,transport,210.71,debit,Tuesday,4,TXN000442
+USR001,2026-04-22,Zomato,food,751.07,debit,Wednesday,4,TXN000443
+USR001,2026-04-22,Amazon,shopping,3117.39,debit,Wednesday,4,TXN000444
+USR001,2026-04-22,Rapido,transport,227.43,debit,Wednesday,4,TXN000445
+USR001,2026-04-22,Unacademy,education,4610.36,debit,Wednesday,4,TXN000446
+USR001,2026-04-23,Hotstar,entertainment,921.56,debit,Thursday,4,TXN000447
+USR001,2026-04-23,Ajio,shopping,6488.06,debit,Thursday,4,TXN000448
+USR001,2026-04-23,Subway,food,350.84,debit,Thursday,4,TXN000449
+USR001,2026-04-23,Blinkit,groceries,19545.79,debit,Thursday,4,TXN000450
+USR001,2026-04-24,Amazon,shopping,3086.28,debit,Friday,4,TXN000451
+USR001,2026-04-24,Hotstar,entertainment,1371.11,debit,Friday,4,TXN000452
+USR001,2026-04-24,Ola,transport,335.04,debit,Friday,4,TXN000453
+USR001,2026-04-24,Flipkart,shopping,9158.33,debit,Friday,4,TXN000454
+USR001,2026-04-24,BWSSB,utilities,2341.41,debit,Friday,4,TXN000455
+USR001,2026-04-25,McDonald's,food,324.68,debit,Saturday,4,TXN000456
+USR001,2026-04-25,Nykaa,shopping,3060.25,debit,Saturday,4,TXN000457
+USR001,2026-04-25,Medplus,healthcare,2121.06,debit,Saturday,4,TXN000458
+USR001,2026-04-25,Zomato,food,777.87,debit,Saturday,4,TXN000459
+USR001,2026-04-25,Subway,food,743.23,debit,Saturday,4,TXN000460
+USR001,2026-04-26,Reliance Fresh,groceries,2795.28,debit,Sunday,4,TXN000461
+USR001,2026-04-26,Amazon,shopping,8321.8,debit,Sunday,4,TXN000462
+USR001,2026-04-26,Zomato,food,408.68,debit,Sunday,4,TXN000463
+USR001,2026-04-26,Ola,transport,302.15,debit,Sunday,4,TXN000464
+USR001,2026-04-26,McDonald's,food,293.84,debit,Sunday,4,TXN000465
+USR001,2026-04-27,Ola,transport,424.88,debit,Monday,4,TXN000466
+USR001,2026-04-27,Nykaa,shopping,4814.33,debit,Monday,4,TXN000467
+USR001,2026-04-27,McDonald's,food,836.95,debit,Monday,4,TXN000468
+USR001,2026-04-27,Myntra,shopping,6995.82,debit,Monday,4,TXN000469
+USR001,2026-04-28,Reliance Fresh,groceries,3066.62,debit,Tuesday,4,TXN000470
+USR001,2026-04-28,KFC,food,655.59,debit,Tuesday,4,TXN000471
+USR001,2026-04-28,Zomato,food,737.64,debit,Tuesday,4,TXN000472
+USR001,2026-04-28,Swiggy,food,637.88,debit,Tuesday,4,TXN000473
+USR001,2026-04-29,Blinkit,groceries,3640.69,debit,Wednesday,4,TXN000474
+USR001,2026-04-29,Namma Metro,transport,123.79,debit,Wednesday,4,TXN000475
+USR001,2026-04-29,PVR Cinemas,entertainment,262.74,debit,Wednesday,4,TXN000476
+USR001,2026-04-29,Swiggy,food,154.57,debit,Wednesday,4,TXN000477
+USR001,2026-04-29,BWSSB,utilities,1188.24,debit,Wednesday,4,TXN000478
+USR001,2026-04-30,DMart,groceries,1440.23,debit,Thursday,4,TXN000479
+USR001,2026-04-30,Nykaa,shopping,8219.6,debit,Thursday,4,TXN000480
+USR001,2026-05-01,Salary Credit,salary,51811.59,credit,Friday,5,TXN000481
+USR001,2026-05-01,Myntra,shopping,9865.53,debit,Friday,5,TXN000482
+USR001,2026-05-01,Reliance Fresh,groceries,1812.81,debit,Friday,5,TXN000483
+USR001,2026-05-01,Dominos,food,387.06,debit,Friday,5,TXN000484
+USR001,2026-05-01,PVR Cinemas,entertainment,1317.47,debit,Friday,5,TXN000485
+USR001,2026-05-02,Myntra,shopping,5531.21,debit,Saturday,5,TXN000486
+USR001,2026-05-02,Ajio,shopping,1450.74,debit,Saturday,5,TXN000487
+USR001,2026-05-03,Nykaa,shopping,520.53,debit,Sunday,5,TXN000488
+USR001,2026-05-03,Zomato,food,427.78,debit,Sunday,5,TXN000489
+USR001,2026-05-03,McDonald's,food,282.96,debit,Sunday,5,TXN000490
+USR001,2026-05-04,Netflix,entertainment,1233.27,debit,Monday,5,TXN000491
+USR001,2026-05-04,Nykaa,shopping,2634.46,debit,Monday,5,TXN000492
+USR001,2026-05-04,Subway,food,107.53,debit,Monday,5,TXN000493
+USR001,2026-05-05,House Rent,rent,12160.48,debit,Tuesday,5,TXN000494
+USR001,2026-05-05,Ola,transport,153.84,debit,Tuesday,5,TXN000495
+USR001,2026-05-05,Zomato,food,194.91,debit,Tuesday,5,TXN000496
+USR001,2026-05-06,Blinkit,groceries,3542.16,debit,Wednesday,5,TXN000497
+USR001,2026-05-06,LPG Booking,utilities,1092.54,debit,Wednesday,5,TXN000498
+USR001,2026-05-06,Airtel,utilities,2376.45,debit,Wednesday,5,TXN000499
+USR001,2026-05-06,Dominos,food,593.31,debit,Wednesday,5,TXN000500
+USR001,2026-05-07,Coursera,education,4192.38,debit,Thursday,5,TXN000501
+USR001,2026-05-07,Spotify,entertainment,1074.83,debit,Thursday,5,TXN000502
+USR001,2026-05-08,Swiggy,food,198.37,debit,Friday,5,TXN000503
+USR001,2026-05-08,Blinkit,groceries,2380.83,debit,Friday,5,TXN000504
+USR001,2026-05-08,McDonald's,food,398.5,debit,Friday,5,TXN000505
+USR001,2026-05-08,McDonald's,food,610.3,debit,Friday,5,TXN000506
+USR001,2026-05-08,Medplus,healthcare,415.23,debit,Friday,5,TXN000507
+USR001,2026-05-09,Zomato,food,574.4,debit,Saturday,5,TXN000508
+USR001,2026-05-09,Nykaa,shopping,8105.11,debit,Saturday,5,TXN000509
+USR001,2026-05-10,SIP Transfer,savings,8232.12,debit,Sunday,5,TXN000510
+USR001,2026-05-10,Namma Metro,transport,452.64,debit,Sunday,5,TXN000511
+USR001,2026-05-10,Hotstar,entertainment,1380.22,debit,Sunday,5,TXN000512
+USR001,2026-05-10,McDonald's,food,405.24,debit,Sunday,5,TXN000513
+USR001,2026-05-10,KFC,food,715.92,debit,Sunday,5,TXN000514
+USR001,2026-05-11,Rapido,transport,487.61,debit,Monday,5,TXN000515
+USR001,2026-05-11,Namma Metro,transport,551.17,debit,Monday,5,TXN000516
+USR001,2026-05-11,Hotstar,entertainment,164.0,debit,Monday,5,TXN000517
+USR001,2026-05-11,Indian Oil,transport,39.25,debit,Monday,5,TXN000518
+USR001,2026-05-12,McDonald's,food,531.53,debit,Tuesday,5,TXN000519
+USR001,2026-05-12,Subway,food,291.01,debit,Tuesday,5,TXN000520
+USR001,2026-05-12,Zomato,food,606.19,debit,Tuesday,5,TXN000521
+USR001,2026-05-12,Blinkit,groceries,3011.26,debit,Tuesday,5,TXN000522
+USR001,2026-05-12,KFC,food,670.66,debit,Tuesday,5,TXN000523
+USR001,2026-05-13,BigBasket,groceries,575.02,debit,Wednesday,5,TXN000524
+USR001,2026-05-13,Medplus,healthcare,3069.14,debit,Wednesday,5,TXN000525
+USR001,2026-05-14,Nykaa,shopping,5205.61,debit,Thursday,5,TXN000526
+USR001,2026-05-14,Dominos,food,602.94,debit,Thursday,5,TXN000527
+USR001,2026-05-15,KFC,food,519.31,debit,Friday,5,TXN000528
+USR001,2026-05-15,Blinkit,groceries,3308.68,debit,Friday,5,TXN000529
+USR001,2026-05-15,Uber,transport,91.0,debit,Friday,5,TXN000530
+USR001,2026-05-15,McDonald's,food,277.59,debit,Friday,5,TXN000531
+USR001,2026-05-15,Ajio,shopping,8207.58,debit,Friday,5,TXN000532
+USR001,2026-05-16,Uber,transport,352.05,debit,Saturday,5,TXN000533
+USR001,2026-05-16,Ola,transport,200.99,debit,Saturday,5,TXN000534
+USR001,2026-05-17,Swiggy,food,533.22,debit,Sunday,5,TXN000535
+USR001,2026-05-17,Namma Metro,transport,430.62,debit,Sunday,5,TXN000536
+USR001,2026-05-18,Reliance Fresh,groceries,457.44,debit,Monday,5,TXN000537
+USR001,2026-05-18,Practo,healthcare,1120.83,debit,Monday,5,TXN000538
+USR001,2026-05-18,Swiggy,food,817.44,debit,Monday,5,TXN000539
+USR001,2026-05-18,BigBasket,groceries,963.61,debit,Monday,5,TXN000540
+USR001,2026-05-19,Blinkit,groceries,1773.7,debit,Tuesday,5,TXN000541
+USR001,2026-05-19,BWSSB,utilities,1453.5,debit,Tuesday,5,TXN000542
+USR001,2026-05-19,Ajio,shopping,6867.24,debit,Tuesday,5,TXN000543
+USR001,2026-05-20,BESCOM,utilities,1889.1,debit,Wednesday,5,TXN000544
+USR001,2026-05-20,Myntra,shopping,4539.76,debit,Wednesday,5,TXN000545
+USR001,2026-05-20,KFC,food,576.24,debit,Wednesday,5,TXN000546
+USR001,2026-05-21,Coursera,education,1754.76,debit,Thursday,5,TXN000547
+USR001,2026-05-21,Namma Metro,transport,276.15,debit,Thursday,5,TXN000548
+USR001,2026-05-21,Blinkit,groceries,617.07,debit,Thursday,5,TXN000549
+USR001,2026-05-21,Airtel,utilities,1811.46,debit,Thursday,5,TXN000550
+USR001,2026-05-21,Uber,transport,246.6,debit,Thursday,5,TXN000551
+USR001,2026-05-22,Uber,transport,183.77,debit,Friday,5,TXN000552
+USR001,2026-05-22,KFC,food,433.4,debit,Friday,5,TXN000553
+USR001,2026-05-22,McDonald's,food,414.6,debit,Friday,5,TXN000554
+USR001,2026-05-22,Rapido,transport,345.91,debit,Friday,5,TXN000555
+USR001,2026-05-22,Ola,transport,2953.85,debit,Friday,5,TXN000556
+USR001,2026-05-23,Reliance Fresh,groceries,813.71,debit,Saturday,5,TXN000557
+USR001,2026-05-23,McDonald's,food,199.67,debit,Saturday,5,TXN000558
+USR001,2026-05-23,Ola,transport,270.03,debit,Saturday,5,TXN000559
+USR001,2026-05-24,McDonald's,food,240.35,debit,Sunday,5,TXN000560
+USR001,2026-05-24,KFC,food,85.55,debit,Sunday,5,TXN000561
+USR001,2026-05-24,Reliance Fresh,groceries,1705.59,debit,Sunday,5,TXN000562
+USR001,2026-05-24,Blinkit,groceries,1538.52,debit,Sunday,5,TXN000563
+USR001,2026-05-25,Rapido,transport,579.81,debit,Monday,5,TXN000564
+USR001,2026-05-25,Hotstar,entertainment,1128.82,debit,Monday,5,TXN000565
+USR001,2026-05-25,Dominos,food,347.23,debit,Monday,5,TXN000566
+USR001,2026-05-25,Uber,transport,238.06,debit,Monday,5,TXN000567
+USR001,2026-05-26,Ajio,shopping,4777.74,debit,Tuesday,5,TXN000568
+USR001,2026-05-26,BigBasket,groceries,3251.44,debit,Tuesday,5,TXN000569
+USR001,2026-05-26,Coursera,education,5004.31,debit,Tuesday,5,TXN000570
+USR001,2026-05-27,KFC,food,389.13,debit,Wednesday,5,TXN000571
+USR001,2026-05-27,Indian Oil,transport,303.16,debit,Wednesday,5,TXN000572
+USR001,2026-05-27,Dominos,food,837.27,debit,Wednesday,5,TXN000573
+USR001,2026-05-27,McDonald's,food,525.79,debit,Wednesday,5,TXN000574
+USR001,2026-05-27,Indian Oil,transport,429.93,debit,Wednesday,5,TXN000575
+USR001,2026-05-28,KFC,food,625.05,debit,Thursday,5,TXN000576
+USR001,2026-05-28,Subway,food,116.32,debit,Thursday,5,TXN000577
+USR001,2026-05-29,Unacademy,education,1721.01,debit,Friday,5,TXN000578
+USR001,2026-05-29,Namma Metro,transport,360.9,debit,Friday,5,TXN000579
+USR001,2026-05-29,LPG Booking,utilities,997.89,debit,Friday,5,TXN000580
+USR001,2026-05-29,Swiggy,food,646.16,debit,Friday,5,TXN000581
+USR001,2026-05-29,Swiggy,food,475.87,debit,Friday,5,TXN000582
+USR001,2026-05-30,Medplus,healthcare,1425.9,debit,Saturday,5,TXN000583
+USR001,2026-05-30,Amazon,shopping,5354.81,debit,Saturday,5,TXN000584
+USR001,2026-05-31,Amazon,shopping,519.08,debit,Sunday,5,TXN000585
+USR001,2026-05-31,Uber,transport,415.97,debit,Sunday,5,TXN000586
+USR001,2026-05-31,McDonald's,food,503.11,debit,Sunday,5,TXN000587
+USR001,2026-05-31,Zomato,food,539.08,debit,Sunday,5,TXN000588
+USR001,2026-05-31,Flipkart,shopping,8038.23,debit,Sunday,5,TXN000589
+USR001,2026-06-01,Freelance Payment,salary,76292.32,credit,Monday,6,TXN000590
+USR001,2026-06-01,Subway,food,657.88,debit,Monday,6,TXN000591
+USR001,2026-06-01,BigBasket,groceries,3292.3,debit,Monday,6,TXN000592
+USR001,2026-06-01,McDonald's,food,735.59,debit,Monday,6,TXN000593
+USR001,2026-06-01,DMart,groceries,1506.14,debit,Monday,6,TXN000594
+USR001,2026-06-01,Rapido,transport,412.3,debit,Monday,6,TXN000595
+USR001,2026-06-02,DMart,groceries,3310.83,debit,Tuesday,6,TXN000596
+USR001,2026-06-02,Blinkit,groceries,3699.13,debit,Tuesday,6,TXN000597
+USR001,2026-06-02,Ola,transport,208.52,debit,Tuesday,6,TXN000598
+USR001,2026-06-02,1mg,healthcare,773.03,debit,Tuesday,6,TXN000599
+USR001,2026-06-02,Reliance Fresh,groceries,1847.48,debit,Tuesday,6,TXN000600
+USR001,2026-06-03,Zomato,food,535.03,debit,Wednesday,6,TXN000601
+USR001,2026-06-03,BigBasket,groceries,992.26,debit,Wednesday,6,TXN000602
+USR001,2026-06-03,Ajio,shopping,8695.57,debit,Wednesday,6,TXN000603
+USR001,2026-06-03,Reliance Fresh,groceries,805.18,debit,Wednesday,6,TXN000604
+USR001,2026-06-03,Unacademy,education,2750.24,debit,Wednesday,6,TXN000605
+USR001,2026-06-04,Uber,transport,186.67,debit,Thursday,6,TXN000606
+USR001,2026-06-04,Dominos,food,720.21,debit,Thursday,6,TXN000607
+USR001,2026-06-04,Swiggy,food,530.78,debit,Thursday,6,TXN000608
+USR001,2026-06-04,Jio,utilities,742.93,debit,Thursday,6,TXN000609
+USR001,2026-06-04,Subway,food,524.48,debit,Thursday,6,TXN000610
+USR001,2026-06-05,PG Rent,rent,17288.01,debit,Friday,6,TXN000611
+USR001,2026-06-05,Swiggy,food,448.78,debit,Friday,6,TXN000612
+USR001,2026-06-05,Medplus,healthcare,1784.33,debit,Friday,6,TXN000613
+USR001,2026-06-05,Jio,utilities,603.71,debit,Friday,6,TXN000614
+USR001,2026-06-05,Dominos,food,786.06,debit,Friday,6,TXN000615
+USR001,2026-06-05,Udemy,education,1412.9,debit,Friday,6,TXN000616
+USR001,2026-06-06,Jio,utilities,1532.46,debit,Saturday,6,TXN000617
+USR001,2026-06-06,BigBasket,groceries,1370.53,debit,Saturday,6,TXN000618
+USR001,2026-06-06,Reliance Fresh,groceries,801.68,debit,Saturday,6,TXN000619
+USR001,2026-06-07,Udemy,education,1197.88,debit,Sunday,6,TXN000620
+USR001,2026-06-07,Medplus,healthcare,627.66,debit,Sunday,6,TXN000621
+USR001,2026-06-08,Ola,transport,391.17,debit,Monday,6,TXN000622
+USR001,2026-06-08,DMart,groceries,1790.55,debit,Monday,6,TXN000623
+USR001,2026-06-08,KFC,food,452.85,debit,Monday,6,TXN000624
+USR001,2026-06-08,Ola,transport,31.41,debit,Monday,6,TXN000625
+USR001,2026-06-08,Rapido,transport,446.63,debit,Monday,6,TXN000626
+USR001,2026-06-09,BWSSB,utilities,2423.51,debit,Tuesday,6,TXN000627
+USR001,2026-06-09,Rapido,transport,183.07,debit,Tuesday,6,TXN000628
+USR001,2026-06-10,FD Deposit,savings,9513.14,debit,Wednesday,6,TXN000629
+USR001,2026-06-10,Airtel,utilities,16269.67,debit,Wednesday,6,TXN000630
+USR001,2026-06-10,Hotstar,entertainment,5621.9,debit,Wednesday,6,TXN000631
+USR001,2026-06-10,Jio,utilities,2489.67,debit,Wednesday,6,TXN000632
+USR001,2026-06-10,McDonald's,food,210.36,debit,Wednesday,6,TXN000633
+USR001,2026-06-10,BigBasket,groceries,645.36,debit,Wednesday,6,TXN000634
+USR001,2026-06-11,Ajio,shopping,7342.09,debit,Thursday,6,TXN000635
+USR001,2026-06-11,BigBasket,groceries,2725.3,debit,Thursday,6,TXN000636
+USR001,2026-06-11,KFC,food,255.01,debit,Thursday,6,TXN000637
+USR001,2026-06-11,BigBasket,groceries,1136.91,debit,Thursday,6,TXN000638
+USR001,2026-06-12,Flipkart,shopping,9885.1,debit,Friday,6,TXN000639
+USR001,2026-06-12,BESCOM,utilities,1246.48,debit,Friday,6,TXN000640
+USR001,2026-06-13,Zomato,food,325.39,debit,Saturday,6,TXN000641
+USR001,2026-06-13,Ola,transport,395.7,debit,Saturday,6,TXN000642
+USR001,2026-06-14,Blinkit,groceries,1599.39,debit,Sunday,6,TXN000643
+USR001,2026-06-14,Dominos,food,834.31,debit,Sunday,6,TXN000644
+USR001,2026-06-15,Dominos,food,563.45,debit,Monday,6,TXN000645
+USR001,2026-06-15,McDonald's,food,337.89,debit,Monday,6,TXN000646
+USR001,2026-06-15,LPG Booking,utilities,1647.09,debit,Monday,6,TXN000647
+USR001,2026-06-16,LPG Booking,utilities,823.96,debit,Tuesday,6,TXN000648
+USR001,2026-06-16,Amazon,shopping,2129.87,debit,Tuesday,6,TXN000649
+USR001,2026-06-16,Medplus,healthcare,3146.02,debit,Tuesday,6,TXN000650
+USR001,2026-06-16,Ajio,shopping,5100.41,debit,Tuesday,6,TXN000651
+USR001,2026-06-17,Blinkit,groceries,3951.47,debit,Wednesday,6,TXN000652
+USR001,2026-06-17,Coursera,education,2627.61,debit,Wednesday,6,TXN000653
+USR001,2026-06-18,BigBasket,groceries,570.07,debit,Thursday,6,TXN000654
+USR001,2026-06-18,Swiggy,food,294.99,debit,Thursday,6,TXN000655
+USR001,2026-06-18,Rapido,transport,570.75,debit,Thursday,6,TXN000656
+USR001,2026-06-18,Coursera,education,3957.14,debit,Thursday,6,TXN000657
+USR002,2025-12-21,Flipkart,shopping,3306.1,debit,Sunday,12,TXN000658
+USR002,2025-12-21,McDonald's,food,878.94,debit,Sunday,12,TXN000659
+USR002,2025-12-21,BigBasket,groceries,1745.71,debit,Sunday,12,TXN000660
+USR002,2025-12-21,Blinkit,groceries,1447.63,debit,Sunday,12,TXN000661
+USR002,2025-12-21,Dominos,food,127.48,debit,Sunday,12,TXN000662
+USR002,2025-12-22,Uber,transport,206.3,debit,Monday,12,TXN000663
+USR002,2025-12-22,BigBasket,groceries,741.94,debit,Monday,12,TXN000664
+USR002,2025-12-23,Rapido,transport,498.83,debit,Tuesday,12,TXN000665
+USR002,2025-12-23,Rapido,transport,102.35,debit,Tuesday,12,TXN000666
+USR002,2025-12-23,BigBasket,groceries,3011.86,debit,Tuesday,12,TXN000667
+USR002,2025-12-24,BWSSB,utilities,1483.96,debit,Wednesday,12,TXN000668
+USR002,2025-12-24,KFC,food,498.84,debit,Wednesday,12,TXN000669
+USR002,2025-12-24,Swiggy,food,216.84,debit,Wednesday,12,TXN000670
+USR002,2025-12-24,Amazon,shopping,8974.4,debit,Wednesday,12,TXN000671
+USR002,2025-12-25,Myntra,shopping,419.19,debit,Thursday,12,TXN000672
+USR002,2025-12-25,Swiggy,food,394.04,debit,Thursday,12,TXN000673
+USR002,2025-12-25,1mg,healthcare,2233.82,debit,Thursday,12,TXN000674
+USR002,2025-12-26,Rapido,transport,184.62,debit,Friday,12,TXN000675
+USR002,2025-12-26,Ola,transport,98.06,debit,Friday,12,TXN000676
+USR002,2025-12-26,Amazon,shopping,2039.64,debit,Friday,12,TXN000677
+USR002,2025-12-27,KFC,food,2562.38,debit,Saturday,12,TXN000678
+USR002,2025-12-27,Uber,transport,477.17,debit,Saturday,12,TXN000679
+USR002,2025-12-27,Dominos,food,460.42,debit,Saturday,12,TXN000680
+USR002,2025-12-27,Medplus,healthcare,3991.26,debit,Saturday,12,TXN000681
+USR002,2025-12-27,Ola,transport,115.82,debit,Saturday,12,TXN000682
+USR002,2025-12-28,Reliance Fresh,groceries,335.5,debit,Sunday,12,TXN000683
+USR002,2025-12-28,BigBasket,groceries,3441.32,debit,Sunday,12,TXN000684
+USR002,2025-12-28,Ajio,shopping,2290.39,debit,Sunday,12,TXN000685
+USR002,2025-12-29,Coursera,education,1773.1,debit,Monday,12,TXN000686
+USR002,2025-12-29,Unacademy,education,4354.66,debit,Monday,12,TXN000687
+USR002,2025-12-29,Zomato,food,149.62,debit,Monday,12,TXN000688
+USR002,2025-12-29,KFC,food,602.52,debit,Monday,12,TXN000689
+USR002,2025-12-29,Zomato,food,545.61,debit,Monday,12,TXN000690
+USR002,2025-12-30,McDonald's,food,402.22,debit,Tuesday,12,TXN000691
+USR002,2025-12-30,Apollo Pharmacy,healthcare,1306.33,debit,Tuesday,12,TXN000692
+USR002,2025-12-30,Netflix,entertainment,1420.98,debit,Tuesday,12,TXN000693
+USR002,2025-12-31,Zomato,food,179.0,debit,Wednesday,12,TXN000694
+USR002,2025-12-31,Ola,transport,287.59,debit,Wednesday,12,TXN000695
+USR002,2025-12-31,Rapido,transport,81.54,debit,Wednesday,12,TXN000696
+USR002,2026-01-01,Freelance Payment,salary,77875.12,credit,Thursday,1,TXN000697
+USR002,2026-01-01,McDonald's,food,201.63,debit,Thursday,1,TXN000698
+USR002,2026-01-01,Practo,healthcare,1615.17,debit,Thursday,1,TXN000699
+USR002,2026-01-02,BESCOM,utilities,1434.29,debit,Friday,1,TXN000700
+USR002,2026-01-02,Zomato,food,458.88,debit,Friday,1,TXN000701
+USR002,2026-01-02,Udemy,education,1167.99,debit,Friday,1,TXN000702
+USR002,2026-01-02,Practo,healthcare,566.33,debit,Friday,1,TXN000703
+USR002,2026-01-03,BigBasket,groceries,3307.16,debit,Saturday,1,TXN000704
+USR002,2026-01-03,Zomato,food,242.16,debit,Saturday,1,TXN000705
+USR002,2026-01-04,PVR Cinemas,entertainment,564.17,debit,Sunday,1,TXN000706
+USR002,2026-01-04,BWSSB,utilities,221.53,debit,Sunday,1,TXN000707
+USR002,2026-01-05,Society Maintenance,rent,14714.98,debit,Monday,1,TXN000708
+USR002,2026-01-05,Rapido,transport,231.75,debit,Monday,1,TXN000709
+USR002,2026-01-05,Ola,transport,189.52,debit,Monday,1,TXN000710
+USR002,2026-01-06,Reliance Fresh,groceries,2072.41,debit,Tuesday,1,TXN000711
+USR002,2026-01-06,Indian Oil,transport,108.22,debit,Tuesday,1,TXN000712
+USR002,2026-01-06,Netflix,entertainment,448.81,debit,Tuesday,1,TXN000713
+USR002,2026-01-07,Airtel,utilities,1305.74,debit,Wednesday,1,TXN000714
+USR002,2026-01-07,Ola,transport,44.86,debit,Wednesday,1,TXN000715
+USR002,2026-01-07,BigBasket,groceries,3614.33,debit,Wednesday,1,TXN000716
+USR002,2026-01-07,Rapido,transport,490.93,debit,Wednesday,1,TXN000717
+USR002,2026-01-07,Hotstar,entertainment,1173.58,debit,Wednesday,1,TXN000718
+USR002,2026-01-08,Subway,food,517.63,debit,Thursday,1,TXN000719
+USR002,2026-01-08,Zomato,food,125.85,debit,Thursday,1,TXN000720
+USR002,2026-01-09,Indian Oil,transport,489.54,debit,Friday,1,TXN000721
+USR002,2026-01-09,Medplus,healthcare,161.42,debit,Friday,1,TXN000722
+USR002,2026-01-09,1mg,healthcare,2274.28,debit,Friday,1,TXN000723
+USR002,2026-01-09,Swiggy,food,524.54,debit,Friday,1,TXN000724
+USR002,2026-01-09,Blinkit,groceries,633.95,debit,Friday,1,TXN000725
+USR002,2026-01-10,SIP Transfer,savings,8843.83,debit,Saturday,1,TXN000726
+USR002,2026-01-10,Uber,transport,489.67,debit,Saturday,1,TXN000727
+USR002,2026-01-10,DMart,groceries,3699.49,debit,Saturday,1,TXN000728
+USR002,2026-01-11,KFC,food,832.12,debit,Sunday,1,TXN000729
+USR002,2026-01-11,DMart,groceries,3484.48,debit,Sunday,1,TXN000730
+USR002,2026-01-12,Reliance Fresh,groceries,1916.41,debit,Monday,1,TXN000731
+USR002,2026-01-12,Indian Oil,transport,400.03,debit,Monday,1,TXN000732
+USR002,2026-01-12,Rapido,transport,425.33,debit,Monday,1,TXN000733
+USR002,2026-01-12,Udemy,education,1727.8,debit,Monday,1,TXN000734
+USR002,2026-01-12,Myntra,shopping,3970.33,debit,Monday,1,TXN000735
+USR002,2026-01-13,KFC,food,549.72,debit,Tuesday,1,TXN000736
+USR002,2026-01-13,KFC,food,106.55,debit,Tuesday,1,TXN000737
+USR002,2026-01-13,Ajio,shopping,2442.68,debit,Tuesday,1,TXN000738
+USR002,2026-01-14,Ola,transport,212.13,debit,Wednesday,1,TXN000739
+USR002,2026-01-14,Subway,food,753.76,debit,Wednesday,1,TXN000740
+USR002,2026-01-14,Rapido,transport,535.39,debit,Wednesday,1,TXN000741
+USR002,2026-01-15,Subway,food,934.62,debit,Thursday,1,TXN000742
+USR002,2026-01-15,Dominos,food,424.12,debit,Thursday,1,TXN000743
+USR002,2026-01-15,KFC,food,484.33,debit,Thursday,1,TXN000744
+USR002,2026-01-16,Swiggy,food,213.38,debit,Friday,1,TXN000745
+USR002,2026-01-16,Ola,transport,198.1,debit,Friday,1,TXN000746
+USR002,2026-01-16,1mg,healthcare,343.09,debit,Friday,1,TXN000747
+USR002,2026-01-16,Amazon,shopping,1860.77,debit,Friday,1,TXN000748
+USR002,2026-01-16,Ajio,shopping,3578.12,debit,Friday,1,TXN000749
+USR002,2026-01-17,Ola,transport,376.17,debit,Saturday,1,TXN000750
+USR002,2026-01-17,Flipkart,shopping,1282.2,debit,Saturday,1,TXN000751
+USR002,2026-01-18,Nykaa,shopping,2604.22,debit,Sunday,1,TXN000752
+USR002,2026-01-18,Amazon,shopping,5631.73,debit,Sunday,1,TXN000753
+USR002,2026-01-18,Myntra,shopping,3800.04,debit,Sunday,1,TXN000754
+USR002,2026-01-18,Dominos,food,755.6,debit,Sunday,1,TXN000755
+USR002,2026-01-18,Zomato,food,243.73,debit,Sunday,1,TXN000756
+USR002,2026-01-19,Coursera,education,3090.19,debit,Monday,1,TXN000757
+USR002,2026-01-19,Uber,transport,81.95,debit,Monday,1,TXN000758
+USR002,2026-01-19,Zomato,food,384.24,debit,Monday,1,TXN000759
+USR002,2026-01-19,BWSSB,utilities,1169.86,debit,Monday,1,TXN000760
+USR002,2026-01-20,McDonald's,food,627.32,debit,Tuesday,1,TXN000761
+USR002,2026-01-20,KFC,food,742.71,debit,Tuesday,1,TXN000762
+USR002,2026-01-20,Dominos,food,266.56,debit,Tuesday,1,TXN000763
+USR002,2026-01-20,LPG Booking,utilities,2064.17,debit,Tuesday,1,TXN000764
+USR002,2026-01-21,Blinkit,groceries,428.5,debit,Wednesday,1,TXN000765
+USR002,2026-01-21,Zomato,food,178.63,debit,Wednesday,1,TXN000766
+USR002,2026-01-21,Zomato,food,858.23,debit,Wednesday,1,TXN000767
+USR002,2026-01-21,Namma Metro,transport,490.82,debit,Wednesday,1,TXN000768
+USR002,2026-01-21,Medplus,healthcare,359.56,debit,Wednesday,1,TXN000769
+USR002,2026-01-22,1mg,healthcare,3660.99,debit,Thursday,1,TXN000770
+USR002,2026-01-22,McDonald's,food,536.22,debit,Thursday,1,TXN000771
+USR002,2026-01-22,Netflix,entertainment,827.56,debit,Thursday,1,TXN000772
+USR002,2026-01-23,Swiggy,food,162.17,debit,Friday,1,TXN000773
+USR002,2026-01-23,McDonald's,food,724.31,debit,Friday,1,TXN000774
+USR002,2026-01-23,Reliance Fresh,groceries,3548.21,debit,Friday,1,TXN000775
+USR002,2026-01-23,Blinkit,groceries,2416.49,debit,Friday,1,TXN000776
+USR002,2026-01-23,Unacademy,education,2014.78,debit,Friday,1,TXN000777
+USR002,2026-01-24,Swiggy,food,835.08,debit,Saturday,1,TXN000778
+USR002,2026-01-24,Spotify,entertainment,573.01,debit,Saturday,1,TXN000779
+USR002,2026-01-24,Ola,transport,189.8,debit,Saturday,1,TXN000780
+USR002,2026-01-24,McDonald's,food,877.45,debit,Saturday,1,TXN000781
+USR002,2026-01-24,Myntra,shopping,9749.93,debit,Saturday,1,TXN000782
+USR002,2026-01-25,Ajio,shopping,9160.3,debit,Sunday,1,TXN000783
+USR002,2026-01-25,BigBasket,groceries,3110.13,debit,Sunday,1,TXN000784
+USR002,2026-01-25,McDonald's,food,502.52,debit,Sunday,1,TXN000785
+USR002,2026-01-25,Indian Oil,transport,434.45,debit,Sunday,1,TXN000786
+USR002,2026-01-26,Swiggy,food,244.6,debit,Monday,1,TXN000787
+USR002,2026-01-26,Medplus,healthcare,1852.97,debit,Monday,1,TXN000788
+USR002,2026-01-27,Namma Metro,transport,418.27,debit,Tuesday,1,TXN000789
+USR002,2026-01-27,Namma Metro,transport,368.6,debit,Tuesday,1,TXN000790
+USR002,2026-01-27,Uber,transport,364.52,debit,Tuesday,1,TXN000791
+USR002,2026-01-27,Netflix,entertainment,1272.72,debit,Tuesday,1,TXN000792
+USR002,2026-01-28,Zomato,food,255.74,debit,Wednesday,1,TXN000793
+USR002,2026-01-28,Dominos,food,635.71,debit,Wednesday,1,TXN000794
+USR002,2026-01-28,Apollo Pharmacy,healthcare,2077.46,debit,Wednesday,1,TXN000795
+USR002,2026-01-28,Airtel,utilities,1237.83,debit,Wednesday,1,TXN000796
+USR002,2026-01-29,Subway,food,853.26,debit,Thursday,1,TXN000797
+USR002,2026-01-29,Reliance Fresh,groceries,2678.14,debit,Thursday,1,TXN000798
+USR002,2026-01-30,Ola,transport,385.46,debit,Friday,1,TXN000799
+USR002,2026-01-30,McDonald's,food,499.44,debit,Friday,1,TXN000800
+USR002,2026-01-30,Rapido,transport,350.03,debit,Friday,1,TXN000801
+USR002,2026-01-30,BigBasket,groceries,1404.36,debit,Friday,1,TXN000802
+USR002,2026-01-31,Coursera,education,4411.02,debit,Saturday,1,TXN000803
+USR002,2026-01-31,Blinkit,groceries,996.93,debit,Saturday,1,TXN000804
+USR002,2026-01-31,1mg,healthcare,3603.76,debit,Saturday,1,TXN000805
+USR002,2026-01-31,Subway,food,621.63,debit,Saturday,1,TXN000806
+USR002,2026-02-01,Salary Credit,salary,76216.02,credit,Sunday,2,TXN000807
+USR002,2026-02-01,Zomato,food,660.62,debit,Sunday,2,TXN000808
+USR002,2026-02-01,Indian Oil,transport,225.61,debit,Sunday,2,TXN000809
+USR002,2026-02-01,Rapido,transport,393.84,debit,Sunday,2,TXN000810
+USR002,2026-02-01,Subway,food,496.0,debit,Sunday,2,TXN000811
+USR002,2026-02-02,Zomato,food,674.65,debit,Monday,2,TXN000812
+USR002,2026-02-02,Ola,transport,569.75,debit,Monday,2,TXN000813
+USR002,2026-02-02,Myntra,shopping,2455.86,debit,Monday,2,TXN000814
+USR002,2026-02-03,LPG Booking,utilities,1229.29,debit,Tuesday,2,TXN000815
+USR002,2026-02-03,Namma Metro,transport,360.78,debit,Tuesday,2,TXN000816
+USR002,2026-02-03,Subway,food,809.33,debit,Tuesday,2,TXN000817
+USR002,2026-02-03,Swiggy,food,392.97,debit,Tuesday,2,TXN000818
+USR002,2026-02-03,Medplus,healthcare,3489.85,debit,Tuesday,2,TXN000819
+USR002,2026-02-04,Ola,transport,210.34,debit,Wednesday,2,TXN000820
+USR002,2026-02-04,Blinkit,groceries,2104.05,debit,Wednesday,2,TXN000821
+USR002,2026-02-04,PVR Cinemas,entertainment,538.78,debit,Wednesday,2,TXN000822
+USR002,2026-02-04,Uber,transport,185.91,debit,Wednesday,2,TXN000823
+USR002,2026-02-05,Society Maintenance,rent,20996.22,debit,Thursday,2,TXN000824
+USR002,2026-02-05,BESCOM,utilities,1129.66,debit,Thursday,2,TXN000825
+USR002,2026-02-05,Jio,utilities,190.54,debit,Thursday,2,TXN000826
+USR002,2026-02-05,KFC,food,859.06,debit,Thursday,2,TXN000827
+USR002,2026-02-05,Uber,transport,138.63,debit,Thursday,2,TXN000828
+USR002,2026-02-05,Rapido,transport,158.97,debit,Thursday,2,TXN000829
+USR002,2026-02-06,McDonald's,food,133.54,debit,Friday,2,TXN000830
+USR002,2026-02-06,DMart,groceries,1986.93,debit,Friday,2,TXN000831
+USR002,2026-02-06,Uber,transport,277.19,debit,Friday,2,TXN000832
+USR002,2026-02-07,Udemy,education,5487.92,debit,Saturday,2,TXN000833
+USR002,2026-02-07,Uber,transport,160.2,debit,Saturday,2,TXN000834
+USR002,2026-02-07,LPG Booking,utilities,606.86,debit,Saturday,2,TXN000835
+USR002,2026-02-07,Subway,food,218.57,debit,Saturday,2,TXN000836
+USR002,2026-02-08,Indian Oil,transport,469.61,debit,Sunday,2,TXN000837
+USR002,2026-02-08,BigBasket,groceries,3980.32,debit,Sunday,2,TXN000838
+USR002,2026-02-09,Ajio,shopping,3988.46,debit,Monday,2,TXN000839
+USR002,2026-02-09,Ola,transport,430.06,debit,Monday,2,TXN000840
+USR002,2026-02-10,RD Transfer,savings,7471.33,debit,Tuesday,2,TXN000841
+USR002,2026-02-10,Amazon,shopping,6174.65,debit,Tuesday,2,TXN000842
+USR002,2026-02-10,McDonald's,food,499.5,debit,Tuesday,2,TXN000843
+USR002,2026-02-11,LPG Booking,utilities,1561.6,debit,Wednesday,2,TXN000844
+USR002,2026-02-11,Namma Metro,transport,584.68,debit,Wednesday,2,TXN000845
+USR002,2026-02-12,Swiggy,food,474.14,debit,Thursday,2,TXN000846
+USR002,2026-02-12,Reliance Fresh,groceries,2785.04,debit,Thursday,2,TXN000847
+USR002,2026-02-12,Netflix,entertainment,308.8,debit,Thursday,2,TXN000848
+USR002,2026-02-12,Myntra,shopping,7318.57,debit,Thursday,2,TXN000849
+USR002,2026-02-13,Ola,transport,58.55,debit,Friday,2,TXN000850
+USR002,2026-02-13,Unacademy,education,5187.37,debit,Friday,2,TXN000851
+USR002,2026-02-13,Swiggy,food,336.42,debit,Friday,2,TXN000852
+USR002,2026-02-14,Dominos,food,610.7,debit,Saturday,2,TXN000853
+USR002,2026-02-14,Subway,food,863.17,debit,Saturday,2,TXN000854
+USR002,2026-02-15,Namma Metro,transport,94.88,debit,Sunday,2,TXN000855
+USR002,2026-02-15,Namma Metro,transport,184.94,debit,Sunday,2,TXN000856
+USR002,2026-02-16,Reliance Fresh,groceries,3787.13,debit,Monday,2,TXN000857
+USR002,2026-02-16,LPG Booking,utilities,2286.94,debit,Monday,2,TXN000858
+USR002,2026-02-16,Dominos,food,636.28,debit,Monday,2,TXN000859
+USR002,2026-02-16,Flipkart,shopping,7857.89,debit,Monday,2,TXN000860
+USR002,2026-02-16,Dominos,food,476.13,debit,Monday,2,TXN000861
+USR002,2026-02-17,KFC,food,709.37,debit,Tuesday,2,TXN000862
+USR002,2026-02-17,McDonald's,food,263.67,debit,Tuesday,2,TXN000863
+USR002,2026-02-17,Indian Oil,transport,325.89,debit,Tuesday,2,TXN000864
+USR002,2026-02-17,Flipkart,shopping,1223.85,debit,Tuesday,2,TXN000865
+USR002,2026-02-17,Ajio,shopping,4974.72,debit,Tuesday,2,TXN000866
+USR002,2026-02-18,Medplus,healthcare,265.54,debit,Wednesday,2,TXN000867
+USR002,2026-02-18,Reliance Fresh,groceries,2170.6,debit,Wednesday,2,TXN000868
+USR002,2026-02-18,Coursera,education,5281.79,debit,Wednesday,2,TXN000869
+USR002,2026-02-19,Zomato,food,607.52,debit,Thursday,2,TXN000870
+USR002,2026-02-19,Unacademy,education,933.57,debit,Thursday,2,TXN000871
+USR002,2026-02-19,Dominos,food,447.44,debit,Thursday,2,TXN000872
+USR002,2026-02-19,Subway,food,339.17,debit,Thursday,2,TXN000873
+USR002,2026-02-20,KFC,food,2342.59,debit,Friday,2,TXN000874
+USR002,2026-02-20,Indian Oil,transport,579.01,debit,Friday,2,TXN000875
+USR002,2026-02-21,Ajio,shopping,8305.52,debit,Saturday,2,TXN000876
+USR002,2026-02-21,Indian Oil,transport,219.22,debit,Saturday,2,TXN000877
+USR002,2026-02-21,Namma Metro,transport,299.69,debit,Saturday,2,TXN000878
+USR002,2026-02-22,Subway,food,81.8,debit,Sunday,2,TXN000879
+USR002,2026-02-22,Nykaa,shopping,9655.01,debit,Sunday,2,TXN000880
+USR002,2026-02-23,Amazon,shopping,7253.5,debit,Monday,2,TXN000881
+USR002,2026-02-23,Swiggy,food,288.52,debit,Monday,2,TXN000882
+USR002,2026-02-23,Dominos,food,842.78,debit,Monday,2,TXN000883
+USR002,2026-02-23,McDonald's,food,756.13,debit,Monday,2,TXN000884
+USR002,2026-02-24,BESCOM,utilities,1619.78,debit,Tuesday,2,TXN000885
+USR002,2026-02-24,Subway,food,713.16,debit,Tuesday,2,TXN000886
+USR002,2026-02-25,Unacademy,education,3542.74,debit,Wednesday,2,TXN000887
+USR002,2026-02-25,Zomato,food,476.0,debit,Wednesday,2,TXN000888
+USR002,2026-02-25,Flipkart,shopping,7010.63,debit,Wednesday,2,TXN000889
+USR002,2026-02-26,Namma Metro,transport,533.14,debit,Thursday,2,TXN000890
+USR002,2026-02-26,Blinkit,groceries,1849.06,debit,Thursday,2,TXN000891
+USR002,2026-02-27,Indian Oil,transport,108.76,debit,Friday,2,TXN000892
+USR002,2026-02-27,Rapido,transport,200.38,debit,Friday,2,TXN000893
+USR002,2026-02-27,Subway,food,663.74,debit,Friday,2,TXN000894
+USR002,2026-02-27,Jio,utilities,621.62,debit,Friday,2,TXN000895
+USR002,2026-02-28,Spotify,entertainment,348.94,debit,Saturday,2,TXN000896
+USR002,2026-02-28,KFC,food,662.49,debit,Saturday,2,TXN000897
+USR002,2026-02-28,Ajio,shopping,4959.59,debit,Saturday,2,TXN000898
+USR002,2026-02-28,Unacademy,education,4208.34,debit,Saturday,2,TXN000899
+USR002,2026-03-01,Bonus Credit,salary,85099.09,credit,Sunday,3,TXN000900
+USR002,2026-03-01,Airtel,utilities,579.77,debit,Sunday,3,TXN000901
+USR002,2026-03-01,Blinkit,groceries,3939.07,debit,Sunday,3,TXN000902
+USR002,2026-03-01,McDonald's,food,768.29,debit,Sunday,3,TXN000903
+USR002,2026-03-01,McDonald's,food,247.28,debit,Sunday,3,TXN000904
+USR002,2026-03-01,Nykaa,shopping,8196.05,debit,Sunday,3,TXN000905
+USR002,2026-03-02,Myntra,shopping,7907.78,debit,Monday,3,TXN000906
+USR002,2026-03-02,Reliance Fresh,groceries,2863.86,debit,Monday,3,TXN000907
+USR002,2026-03-02,Subway,food,397.79,debit,Monday,3,TXN000908
+USR002,2026-03-03,Coursera,education,5278.67,debit,Tuesday,3,TXN000909
+USR002,2026-03-03,Subway,food,760.59,debit,Tuesday,3,TXN000910
+USR002,2026-03-03,Nykaa,shopping,7182.59,debit,Tuesday,3,TXN000911
+USR002,2026-03-03,Subway,food,528.22,debit,Tuesday,3,TXN000912
+USR002,2026-03-04,KFC,food,233.32,debit,Wednesday,3,TXN000913
+USR002,2026-03-04,McDonald's,food,177.87,debit,Wednesday,3,TXN000914
+USR002,2026-03-04,Nykaa,shopping,5699.01,debit,Wednesday,3,TXN000915
+USR002,2026-03-05,PG Rent,rent,8095.97,debit,Thursday,3,TXN000916
+USR002,2026-03-05,Myntra,shopping,9344.1,debit,Thursday,3,TXN000917
+USR002,2026-03-05,McDonald's,food,482.25,debit,Thursday,3,TXN000918
+USR002,2026-03-05,KFC,food,139.76,debit,Thursday,3,TXN000919
+USR002,2026-03-05,Ola,transport,155.38,debit,Thursday,3,TXN000920
+USR002,2026-03-05,KFC,food,724.73,debit,Thursday,3,TXN000921
+USR002,2026-03-06,KFC,food,259.13,debit,Friday,3,TXN000922
+USR002,2026-03-06,Subway,food,469.38,debit,Friday,3,TXN000923
+USR002,2026-03-06,Dominos,food,87.22,debit,Friday,3,TXN000924
+USR002,2026-03-06,Indian Oil,transport,167.0,debit,Friday,3,TXN000925
+USR002,2026-03-06,Rapido,transport,168.98,debit,Friday,3,TXN000926
+USR002,2026-03-07,Spotify,entertainment,1375.87,debit,Saturday,3,TXN000927
+USR002,2026-03-07,PVR Cinemas,entertainment,820.03,debit,Saturday,3,TXN000928
+USR002,2026-03-07,Uber,transport,55.0,debit,Saturday,3,TXN000929
+USR002,2026-03-07,BigBasket,groceries,1485.16,debit,Saturday,3,TXN000930
+USR002,2026-03-07,KFC,food,217.26,debit,Saturday,3,TXN000931
+USR002,2026-03-08,Reliance Fresh,groceries,2629.2,debit,Sunday,3,TXN000932
+USR002,2026-03-08,Subway,food,765.25,debit,Sunday,3,TXN000933
+USR002,2026-03-09,BigBasket,groceries,1527.35,debit,Monday,3,TXN000934
+USR002,2026-03-09,Netflix,entertainment,349.19,debit,Monday,3,TXN000935
+USR002,2026-03-09,Myntra,shopping,5877.13,debit,Monday,3,TXN000936
+USR002,2026-03-09,Dominos,food,414.26,debit,Monday,3,TXN000937
+USR002,2026-03-09,Indian Oil,transport,1852.81,debit,Monday,3,TXN000938
+USR002,2026-03-10,SIP Transfer,savings,10338.5,debit,Tuesday,3,TXN000939
+USR002,2026-03-10,LPG Booking,utilities,1782.12,debit,Tuesday,3,TXN000940
+USR002,2026-03-10,DMart,groceries,692.7,debit,Tuesday,3,TXN000941
+USR002,2026-03-11,Swiggy,food,392.76,debit,Wednesday,3,TXN000942
+USR002,2026-03-11,Hotstar,entertainment,763.58,debit,Wednesday,3,TXN000943
+USR002,2026-03-12,Jio,utilities,2228.75,debit,Thursday,3,TXN000944
+USR002,2026-03-12,Medplus,healthcare,28734.18,debit,Thursday,3,TXN000945
+USR002,2026-03-12,KFC,food,1156.3,debit,Thursday,3,TXN000946
+USR002,2026-03-12,Blinkit,groceries,2325.84,debit,Thursday,3,TXN000947
+USR002,2026-03-12,McDonald's,food,693.6,debit,Thursday,3,TXN000948
+USR002,2026-03-13,Rapido,transport,121.74,debit,Friday,3,TXN000949
+USR002,2026-03-13,BigBasket,groceries,1019.01,debit,Friday,3,TXN000950
+USR002,2026-03-13,Reliance Fresh,groceries,3450.13,debit,Friday,3,TXN000951
+USR002,2026-03-14,Dominos,food,160.53,debit,Saturday,3,TXN000952
+USR002,2026-03-14,Subway,food,860.26,debit,Saturday,3,TXN000953
+USR002,2026-03-15,KFC,food,340.58,debit,Sunday,3,TXN000954
+USR002,2026-03-15,Blinkit,groceries,2739.86,debit,Sunday,3,TXN000955
+USR002,2026-03-15,Spotify,entertainment,891.77,debit,Sunday,3,TXN000956
+USR002,2026-03-16,Subway,food,306.88,debit,Monday,3,TXN000957
+USR002,2026-03-16,Namma Metro,transport,447.79,debit,Monday,3,TXN000958
+USR002,2026-03-16,BWSSB,utilities,1168.86,debit,Monday,3,TXN000959
+USR002,2026-03-16,Nykaa,shopping,5651.22,debit,Monday,3,TXN000960
+USR002,2026-03-16,Blinkit,groceries,603.3,debit,Monday,3,TXN000961
+USR002,2026-03-17,Swiggy,food,855.05,debit,Tuesday,3,TXN000962
+USR002,2026-03-17,Hotstar,entertainment,1237.7,debit,Tuesday,3,TXN000963
+USR002,2026-03-17,KFC,food,823.17,debit,Tuesday,3,TXN000964
+USR002,2026-03-18,Nykaa,shopping,8614.49,debit,Wednesday,3,TXN000965
+USR002,2026-03-18,KFC,food,498.54,debit,Wednesday,3,TXN000966
+USR002,2026-03-18,Indian Oil,transport,36.04,debit,Wednesday,3,TXN000967
+USR002,2026-03-18,Hotstar,entertainment,1057.83,debit,Wednesday,3,TXN000968
+USR002,2026-03-18,Blinkit,groceries,1951.02,debit,Wednesday,3,TXN000969
+USR002,2026-03-19,Spotify,entertainment,427.63,debit,Thursday,3,TXN000970
+USR002,2026-03-19,Swiggy,food,398.24,debit,Thursday,3,TXN000971
+USR002,2026-03-19,BESCOM,utilities,195.77,debit,Thursday,3,TXN000972
+USR002,2026-03-19,McDonald's,food,657.06,debit,Thursday,3,TXN000973
+USR002,2026-03-19,KFC,food,764.6,debit,Thursday,3,TXN000974
+USR002,2026-03-20,Rapido,transport,541.99,debit,Friday,3,TXN000975
+USR002,2026-03-20,Indian Oil,transport,244.51,debit,Friday,3,TXN000976
+USR002,2026-03-20,DMart,groceries,1801.62,debit,Friday,3,TXN000977
+USR002,2026-03-21,Jio,utilities,651.98,debit,Saturday,3,TXN000978
+USR002,2026-03-21,Spotify,entertainment,396.12,debit,Saturday,3,TXN000979
+USR002,2026-03-21,Subway,food,573.66,debit,Saturday,3,TXN000980
+USR002,2026-03-21,Netflix,entertainment,422.48,debit,Saturday,3,TXN000981
+USR002,2026-03-21,Uber,transport,304.46,debit,Saturday,3,TXN000982
+USR002,2026-03-22,Blinkit,groceries,773.17,debit,Sunday,3,TXN000983
+USR002,2026-03-22,Indian Oil,transport,388.84,debit,Sunday,3,TXN000984
+USR002,2026-03-22,Zomato,food,200.43,debit,Sunday,3,TXN000985
+USR002,2026-03-23,Reliance Fresh,groceries,1348.78,debit,Monday,3,TXN000986
+USR002,2026-03-23,Reliance Fresh,groceries,2544.15,debit,Monday,3,TXN000987
+USR002,2026-03-23,KFC,food,219.86,debit,Monday,3,TXN000988
+USR002,2026-03-23,Flipkart,shopping,1684.31,debit,Monday,3,TXN000989
+USR002,2026-03-23,Flipkart,shopping,6345.15,debit,Monday,3,TXN000990
+USR002,2026-03-24,PVR Cinemas,entertainment,1736.5,debit,Tuesday,3,TXN000991
+USR002,2026-03-24,Blinkit,groceries,3358.1,debit,Tuesday,3,TXN000992
+USR002,2026-03-24,Swiggy,food,470.21,debit,Tuesday,3,TXN000993
+USR002,2026-03-24,Ola,transport,530.32,debit,Tuesday,3,TXN000994
+USR002,2026-03-25,Namma Metro,transport,373.98,debit,Wednesday,3,TXN000995
+USR002,2026-03-25,Swiggy,food,508.08,debit,Wednesday,3,TXN000996
+USR002,2026-03-26,Subway,food,687.94,debit,Thursday,3,TXN000997
+USR002,2026-03-26,Jio,utilities,1482.69,debit,Thursday,3,TXN000998
+USR002,2026-03-26,BESCOM,utilities,1245.14,debit,Thursday,3,TXN000999
+USR002,2026-03-26,Namma Metro,transport,191.46,debit,Thursday,3,TXN001000
+USR002,2026-03-26,BigBasket,groceries,8745.29,debit,Thursday,3,TXN001001
+USR002,2026-03-27,Reliance Fresh,groceries,1060.05,debit,Friday,3,TXN001002
+USR002,2026-03-27,Indian Oil,transport,236.49,debit,Friday,3,TXN001003
+USR002,2026-03-28,Zomato,food,893.27,debit,Saturday,3,TXN001004
+USR002,2026-03-28,Reliance Fresh,groceries,1828.94,debit,Saturday,3,TXN001005
+USR002,2026-03-28,Reliance Fresh,groceries,961.26,debit,Saturday,3,TXN001006
+USR002,2026-03-28,DMart,groceries,1238.98,debit,Saturday,3,TXN001007
+USR002,2026-03-29,Flipkart,shopping,7083.32,debit,Sunday,3,TXN001008
+USR002,2026-03-29,Apollo Pharmacy,healthcare,2057.96,debit,Sunday,3,TXN001009
+USR002,2026-03-29,Amazon,shopping,1859.16,debit,Sunday,3,TXN001010
+USR002,2026-03-29,Ajio,shopping,8102.38,debit,Sunday,3,TXN001011
+USR002,2026-03-29,Ola,transport,557.74,debit,Sunday,3,TXN001012
+USR002,2026-03-30,KFC,food,887.25,debit,Monday,3,TXN001013
+USR002,2026-03-30,Swiggy,food,314.9,debit,Monday,3,TXN001014
+USR002,2026-03-30,Subway,food,855.49,debit,Monday,3,TXN001015
+USR002,2026-03-30,Indian Oil,transport,2307.95,debit,Monday,3,TXN001016
+USR002,2026-03-31,McDonald's,food,584.46,debit,Tuesday,3,TXN001017
+USR002,2026-03-31,Jio,utilities,3121.49,debit,Tuesday,3,TXN001018
+USR002,2026-03-31,Reliance Fresh,groceries,3184.79,debit,Tuesday,3,TXN001019
+USR002,2026-03-31,Amazon,shopping,4232.87,debit,Tuesday,3,TXN001020
+USR002,2026-04-01,Freelance Payment,salary,78144.88,credit,Wednesday,4,TXN001021
+USR002,2026-04-01,DMart,groceries,2368.72,debit,Wednesday,4,TXN001022
+USR002,2026-04-01,Nykaa,shopping,9643.89,debit,Wednesday,4,TXN001023
+USR002,2026-04-02,Indian Oil,transport,129.77,debit,Thursday,4,TXN001024
+USR002,2026-04-02,Ola,transport,71.26,debit,Thursday,4,TXN001025
+USR002,2026-04-02,KFC,food,738.41,debit,Thursday,4,TXN001026
+USR002,2026-04-03,Ajio,shopping,7647.49,debit,Friday,4,TXN001027
+USR002,2026-04-03,Udemy,education,4248.77,debit,Friday,4,TXN001028
+USR002,2026-04-03,Reliance Fresh,groceries,2083.29,debit,Friday,4,TXN001029
+USR002,2026-04-03,Airtel,utilities,1620.79,debit,Friday,4,TXN001030
+USR002,2026-04-04,Namma Metro,transport,180.11,debit,Saturday,4,TXN001031
+USR002,2026-04-04,Ola,transport,414.01,debit,Saturday,4,TXN001032
+USR002,2026-04-04,DMart,groceries,2351.84,debit,Saturday,4,TXN001033
+USR002,2026-04-04,Myntra,shopping,3729.32,debit,Saturday,4,TXN001034
+USR002,2026-04-05,House Rent,rent,24101.01,debit,Sunday,4,TXN001035
+USR002,2026-04-05,Uber,transport,527.46,debit,Sunday,4,TXN001036
+USR002,2026-04-05,McDonald's,food,764.65,debit,Sunday,4,TXN001037
+USR002,2026-04-05,Amazon,shopping,1813.16,debit,Sunday,4,TXN001038
+USR002,2026-04-06,DMart,groceries,2596.47,debit,Monday,4,TXN001039
+USR002,2026-04-06,LPG Booking,utilities,1277.93,debit,Monday,4,TXN001040
+USR002,2026-04-06,Blinkit,groceries,1336.99,debit,Monday,4,TXN001041
+USR002,2026-04-06,Dominos,food,124.4,debit,Monday,4,TXN001042
+USR002,2026-04-06,Rapido,transport,565.6,debit,Monday,4,TXN001043
+USR002,2026-04-07,1mg,healthcare,8684.04,debit,Tuesday,4,TXN001044
+USR002,2026-04-07,LPG Booking,utilities,1494.42,debit,Tuesday,4,TXN001045
+USR002,2026-04-07,Rapido,transport,521.25,debit,Tuesday,4,TXN001046
+USR002,2026-04-07,KFC,food,274.45,debit,Tuesday,4,TXN001047
+USR002,2026-04-07,Reliance Fresh,groceries,1569.46,debit,Tuesday,4,TXN001048
+USR002,2026-04-08,Indian Oil,transport,258.34,debit,Wednesday,4,TXN001049
+USR002,2026-04-08,Airtel,utilities,414.73,debit,Wednesday,4,TXN001050
+USR002,2026-04-08,Uber,transport,494.09,debit,Wednesday,4,TXN001051
+USR002,2026-04-09,Medplus,healthcare,88.48,debit,Thursday,4,TXN001052
+USR002,2026-04-09,KFC,food,896.36,debit,Thursday,4,TXN001053
+USR002,2026-04-09,BWSSB,utilities,1381.56,debit,Thursday,4,TXN001054
+USR002,2026-04-09,Nykaa,shopping,3210.33,debit,Thursday,4,TXN001055
+USR002,2026-04-09,Uber,transport,57.19,debit,Thursday,4,TXN001056
+USR002,2026-04-10,SIP Transfer,savings,4801.08,debit,Friday,4,TXN001057
+USR002,2026-04-10,Rapido,transport,235.75,debit,Friday,4,TXN001058
+USR002,2026-04-10,DMart,groceries,1573.32,debit,Friday,4,TXN001059
+USR002,2026-04-10,Uber,transport,524.4,debit,Friday,4,TXN001060
+USR002,2026-04-10,Indian Oil,transport,358.81,debit,Friday,4,TXN001061
+USR002,2026-04-11,Coursera,education,3307.44,debit,Saturday,4,TXN001062
+USR002,2026-04-11,McDonald's,food,809.5,debit,Saturday,4,TXN001063
+USR002,2026-04-11,Uber,transport,294.34,debit,Saturday,4,TXN001064
+USR002,2026-04-12,Rapido,transport,75.09,debit,Sunday,4,TXN001065
+USR002,2026-04-12,DMart,groceries,1472.45,debit,Sunday,4,TXN001066
+USR002,2026-04-12,Namma Metro,transport,375.07,debit,Sunday,4,TXN001067
+USR002,2026-04-12,PVR Cinemas,entertainment,1193.36,debit,Sunday,4,TXN001068
+USR002,2026-04-13,Zomato,food,689.98,debit,Monday,4,TXN001069
+USR002,2026-04-13,Apollo Pharmacy,healthcare,709.3,debit,Monday,4,TXN001070
+USR002,2026-04-13,Swiggy,food,848.17,debit,Monday,4,TXN001071
+USR002,2026-04-13,Swiggy,food,101.62,debit,Monday,4,TXN001072
+USR002,2026-04-13,Swiggy,food,165.22,debit,Monday,4,TXN001073
+USR002,2026-04-14,Rapido,transport,507.96,debit,Tuesday,4,TXN001074
+USR002,2026-04-14,Dominos,food,785.5,debit,Tuesday,4,TXN001075
+USR002,2026-04-14,McDonald's,food,463.1,debit,Tuesday,4,TXN001076
+USR002,2026-04-14,Blinkit,groceries,2329.62,debit,Tuesday,4,TXN001077
+USR002,2026-04-14,Subway,food,564.48,debit,Tuesday,4,TXN001078
+USR002,2026-04-15,DMart,groceries,3277.42,debit,Wednesday,4,TXN001079
+USR002,2026-04-15,BigBasket,groceries,1825.15,debit,Wednesday,4,TXN001080
+USR002,2026-04-15,Uber,transport,30.05,debit,Wednesday,4,TXN001081
+USR002,2026-04-15,Ola,transport,226.01,debit,Wednesday,4,TXN001082
+USR002,2026-04-15,Reliance Fresh,groceries,2844.75,debit,Wednesday,4,TXN001083
+USR002,2026-04-16,Dominos,food,85.92,debit,Thursday,4,TXN001084
+USR002,2026-04-16,Uber,transport,532.83,debit,Thursday,4,TXN001085
+USR002,2026-04-16,Dominos,food,213.88,debit,Thursday,4,TXN001086
+USR002,2026-04-16,Swiggy,food,759.31,debit,Thursday,4,TXN001087
+USR002,2026-04-17,DMart,groceries,1305.9,debit,Friday,4,TXN001088
+USR002,2026-04-17,Blinkit,groceries,1827.74,debit,Friday,4,TXN001089
+USR002,2026-04-17,BWSSB,utilities,427.9,debit,Friday,4,TXN001090
+USR002,2026-04-17,Reliance Fresh,groceries,2585.6,debit,Friday,4,TXN001091
+USR002,2026-04-17,Nykaa,shopping,8907.43,debit,Friday,4,TXN001092
+USR002,2026-04-18,Subway,food,300.74,debit,Saturday,4,TXN001093
+USR002,2026-04-18,Swiggy,food,86.73,debit,Saturday,4,TXN001094
+USR002,2026-04-19,Swiggy,food,651.49,debit,Sunday,4,TXN001095
+USR002,2026-04-19,Ola,transport,510.82,debit,Sunday,4,TXN001096
+USR002,2026-04-19,LPG Booking,utilities,739.61,debit,Sunday,4,TXN001097
+USR002,2026-04-19,Rapido,transport,297.98,debit,Sunday,4,TXN001098
+USR002,2026-04-19,Ola,transport,495.83,debit,Sunday,4,TXN001099
+USR002,2026-04-20,Ola,transport,596.89,debit,Monday,4,TXN001100
+USR002,2026-04-20,Coursera,education,3366.27,debit,Monday,4,TXN001101
+USR002,2026-04-20,McDonald's,food,399.08,debit,Monday,4,TXN001102
+USR002,2026-04-21,DMart,groceries,2227.43,debit,Tuesday,4,TXN001103
+USR002,2026-04-21,Subway,food,242.95,debit,Tuesday,4,TXN001104
+USR002,2026-04-21,PVR Cinemas,entertainment,404.9,debit,Tuesday,4,TXN001105
+USR002,2026-04-22,KFC,food,279.33,debit,Wednesday,4,TXN001106
+USR002,2026-04-22,LPG Booking,utilities,1980.34,debit,Wednesday,4,TXN001107
+USR002,2026-04-22,Blinkit,groceries,873.47,debit,Wednesday,4,TXN001108
+USR002,2026-04-22,Indian Oil,transport,119.89,debit,Wednesday,4,TXN001109
+USR002,2026-04-23,Netflix,entertainment,1002.4,debit,Thursday,4,TXN001110
+USR002,2026-04-23,Unacademy,education,1192.05,debit,Thursday,4,TXN001111
+USR002,2026-04-23,Reliance Fresh,groceries,3217.68,debit,Thursday,4,TXN001112
+USR002,2026-04-23,Dominos,food,681.21,debit,Thursday,4,TXN001113
+USR002,2026-04-24,Ajio,shopping,5722.54,debit,Friday,4,TXN001114
+USR002,2026-04-24,McDonald's,food,235.62,debit,Friday,4,TXN001115
+USR002,2026-04-24,KFC,food,345.42,debit,Friday,4,TXN001116
+USR002,2026-04-24,Amazon,shopping,9170.4,debit,Friday,4,TXN001117
+USR002,2026-04-25,Indian Oil,transport,288.83,debit,Saturday,4,TXN001118
+USR002,2026-04-25,BESCOM,utilities,1009.7,debit,Saturday,4,TXN001119
+USR002,2026-04-25,Blinkit,groceries,2593.02,debit,Saturday,4,TXN001120
+USR002,2026-04-26,Nykaa,shopping,5383.48,debit,Sunday,4,TXN001121
+USR002,2026-04-26,Ajio,shopping,1795.08,debit,Sunday,4,TXN001122
+USR002,2026-04-26,BigBasket,groceries,2671.34,debit,Sunday,4,TXN001123
+USR002,2026-04-26,Uber,transport,54.95,debit,Sunday,4,TXN001124
+USR002,2026-04-27,Dominos,food,160.98,debit,Monday,4,TXN001125
+USR002,2026-04-27,Indian Oil,transport,405.02,debit,Monday,4,TXN001126
+USR002,2026-04-28,Swiggy,food,835.25,debit,Tuesday,4,TXN001127
+USR002,2026-04-28,McDonald's,food,463.81,debit,Tuesday,4,TXN001128
+USR002,2026-04-28,Ajio,shopping,5712.79,debit,Tuesday,4,TXN001129
+USR002,2026-04-28,Swiggy,food,754.06,debit,Tuesday,4,TXN001130
+USR002,2026-04-29,BigBasket,groceries,1098.83,debit,Wednesday,4,TXN001131
+USR002,2026-04-29,Flipkart,shopping,7334.17,debit,Wednesday,4,TXN001132
+USR002,2026-04-29,Medplus,healthcare,812.82,debit,Wednesday,4,TXN001133
+USR002,2026-04-29,Subway,food,537.91,debit,Wednesday,4,TXN001134
+USR002,2026-04-30,BWSSB,utilities,1718.78,debit,Thursday,4,TXN001135
+USR002,2026-04-30,Blinkit,groceries,3566.45,debit,Thursday,4,TXN001136
+USR002,2026-05-01,Freelance Payment,salary,66062.29,credit,Friday,5,TXN001137
+USR002,2026-05-01,Myntra,shopping,9054.1,debit,Friday,5,TXN001138
+USR002,2026-05-01,Reliance Fresh,groceries,3425.96,debit,Friday,5,TXN001139
+USR002,2026-05-01,Blinkit,groceries,3356.77,debit,Friday,5,TXN001140
+USR002,2026-05-01,Spotify,entertainment,888.4,debit,Friday,5,TXN001141
+USR002,2026-05-02,Unacademy,education,5906.26,debit,Saturday,5,TXN001142
+USR002,2026-05-02,Ola,transport,107.0,debit,Saturday,5,TXN001143
+USR002,2026-05-02,Rapido,transport,201.19,debit,Saturday,5,TXN001144
+USR002,2026-05-02,Myntra,shopping,510.5,debit,Saturday,5,TXN001145
+USR002,2026-05-03,Zomato,food,297.29,debit,Sunday,5,TXN001146
+USR002,2026-05-03,Ola,transport,162.81,debit,Sunday,5,TXN001147
+USR002,2026-05-03,Zomato,food,547.8,debit,Sunday,5,TXN001148
+USR002,2026-05-04,Nykaa,shopping,1977.15,debit,Monday,5,TXN001149
+USR002,2026-05-04,Jio,utilities,2066.84,debit,Monday,5,TXN001150
+USR002,2026-05-05,House Rent,rent,20423.42,debit,Tuesday,5,TXN001151
+USR002,2026-05-05,Zomato,food,421.55,debit,Tuesday,5,TXN001152
+USR002,2026-05-05,Swiggy,food,693.1,debit,Tuesday,5,TXN001153
+USR002,2026-05-05,BESCOM,utilities,1621.33,debit,Tuesday,5,TXN001154
+USR002,2026-05-05,Indian Oil,transport,203.73,debit,Tuesday,5,TXN001155
+USR002,2026-05-05,Airtel,utilities,1455.79,debit,Tuesday,5,TXN001156
+USR002,2026-05-06,KFC,food,445.41,debit,Wednesday,5,TXN001157
+USR002,2026-05-06,Ajio,shopping,1173.8,debit,Wednesday,5,TXN001158
+USR002,2026-05-06,Namma Metro,transport,114.37,debit,Wednesday,5,TXN001159
+USR002,2026-05-07,Blinkit,groceries,1774.55,debit,Thursday,5,TXN001160
+USR002,2026-05-07,Zomato,food,704.87,debit,Thursday,5,TXN001161
+USR002,2026-05-08,Namma Metro,transport,168.12,debit,Friday,5,TXN001162
+USR002,2026-05-08,BigBasket,groceries,1496.62,debit,Friday,5,TXN001163
+USR002,2026-05-08,DMart,groceries,716.36,debit,Friday,5,TXN001164
+USR002,2026-05-08,Unacademy,education,2415.69,debit,Friday,5,TXN001165
+USR002,2026-05-08,Blinkit,groceries,2725.02,debit,Friday,5,TXN001166
+USR002,2026-05-09,Blinkit,groceries,466.05,debit,Saturday,5,TXN001167
+USR002,2026-05-09,Unacademy,education,4269.48,debit,Saturday,5,TXN001168
+USR002,2026-05-09,Ola,transport,516.08,debit,Saturday,5,TXN001169
+USR002,2026-05-09,Zomato,food,279.3,debit,Saturday,5,TXN001170
+USR002,2026-05-10,RD Transfer,savings,2178.53,debit,Sunday,5,TXN001171
+USR002,2026-05-10,Uber,transport,219.17,debit,Sunday,5,TXN001172
+USR002,2026-05-10,Rapido,transport,146.17,debit,Sunday,5,TXN001173
+USR002,2026-05-11,DMart,groceries,3652.35,debit,Monday,5,TXN001174
+USR002,2026-05-11,Unacademy,education,1436.76,debit,Monday,5,TXN001175
+USR002,2026-05-11,Amazon,shopping,6294.26,debit,Monday,5,TXN001176
+USR002,2026-05-11,Myntra,shopping,946.0,debit,Monday,5,TXN001177
+USR002,2026-05-11,Namma Metro,transport,3903.93,debit,Monday,5,TXN001178
+USR002,2026-05-12,Unacademy,education,5471.3,debit,Tuesday,5,TXN001179
+USR002,2026-05-12,Reliance Fresh,groceries,2266.77,debit,Tuesday,5,TXN001180
+USR002,2026-05-12,Amazon,shopping,5738.67,debit,Tuesday,5,TXN001181
+USR002,2026-05-13,Spotify,entertainment,7694.94,debit,Wednesday,5,TXN001182
+USR002,2026-05-13,Indian Oil,transport,386.38,debit,Wednesday,5,TXN001183
+USR002,2026-05-13,Rapido,transport,187.25,debit,Wednesday,5,TXN001184
+USR002,2026-05-14,Hotstar,entertainment,312.39,debit,Thursday,5,TXN001185
+USR002,2026-05-14,LPG Booking,utilities,310.71,debit,Thursday,5,TXN001186
+USR002,2026-05-14,Dominos,food,795.62,debit,Thursday,5,TXN001187
+USR002,2026-05-14,DMart,groceries,1189.33,debit,Thursday,5,TXN001188
+USR002,2026-05-14,KFC,food,825.98,debit,Thursday,5,TXN001189
+USR002,2026-05-15,McDonald's,food,736.09,debit,Friday,5,TXN001190
+USR002,2026-05-15,Zomato,food,644.6,debit,Friday,5,TXN001191
+USR002,2026-05-15,Blinkit,groceries,1891.24,debit,Friday,5,TXN001192
+USR002,2026-05-16,Uber,transport,97.48,debit,Saturday,5,TXN001193
+USR002,2026-05-16,Reliance Fresh,groceries,2990.19,debit,Saturday,5,TXN001194
+USR002,2026-05-16,Spotify,entertainment,1445.67,debit,Saturday,5,TXN001195
+USR002,2026-05-17,Jio,utilities,1929.87,debit,Sunday,5,TXN001196
+USR002,2026-05-17,KFC,food,576.6,debit,Sunday,5,TXN001197
+USR002,2026-05-17,McDonald's,food,270.39,debit,Sunday,5,TXN001198
+USR002,2026-05-18,Myntra,shopping,5172.55,debit,Monday,5,TXN001199
+USR002,2026-05-18,Namma Metro,transport,134.87,debit,Monday,5,TXN001200
+USR002,2026-05-19,Dominos,food,874.43,debit,Tuesday,5,TXN001201
+USR002,2026-05-19,Zomato,food,262.49,debit,Tuesday,5,TXN001202
+USR002,2026-05-19,Namma Metro,transport,461.93,debit,Tuesday,5,TXN001203
+USR002,2026-05-20,Myntra,shopping,6196.92,debit,Wednesday,5,TXN001204
+USR002,2026-05-20,Apollo Pharmacy,healthcare,1606.9,debit,Wednesday,5,TXN001205
+USR002,2026-05-20,Netflix,entertainment,828.91,debit,Wednesday,5,TXN001206
+USR002,2026-05-20,Indian Oil,transport,530.33,debit,Wednesday,5,TXN001207
+USR002,2026-05-20,LPG Booking,utilities,1049.47,debit,Wednesday,5,TXN001208
+USR002,2026-05-21,Reliance Fresh,groceries,1426.85,debit,Thursday,5,TXN001209
+USR002,2026-05-21,BigBasket,groceries,916.0,debit,Thursday,5,TXN001210
+USR002,2026-05-21,Dominos,food,645.76,debit,Thursday,5,TXN001211
+USR002,2026-05-21,Subway,food,760.51,debit,Thursday,5,TXN001212
+USR002,2026-05-21,Indian Oil,transport,315.37,debit,Thursday,5,TXN001213
+USR002,2026-05-22,Uber,transport,288.6,debit,Friday,5,TXN001214
+USR002,2026-05-22,Rapido,transport,533.05,debit,Friday,5,TXN001215
+USR002,2026-05-22,Zomato,food,647.21,debit,Friday,5,TXN001216
+USR002,2026-05-23,Subway,food,599.94,debit,Saturday,5,TXN001217
+USR002,2026-05-23,Nykaa,shopping,4025.65,debit,Saturday,5,TXN001218
+USR002,2026-05-24,Uber,transport,549.98,debit,Sunday,5,TXN001219
+USR002,2026-05-24,Ola,transport,122.41,debit,Sunday,5,TXN001220
+USR002,2026-05-24,BWSSB,utilities,1107.0,debit,Sunday,5,TXN001221
+USR002,2026-05-25,Reliance Fresh,groceries,2603.47,debit,Monday,5,TXN001222
+USR002,2026-05-25,Swiggy,food,488.05,debit,Monday,5,TXN001223
+USR002,2026-05-25,Zomato,food,578.55,debit,Monday,5,TXN001224
+USR002,2026-05-25,Dominos,food,562.87,debit,Monday,5,TXN001225
+USR002,2026-05-26,Swiggy,food,537.19,debit,Tuesday,5,TXN001226
+USR002,2026-05-26,DMart,groceries,983.91,debit,Tuesday,5,TXN001227
+USR002,2026-05-26,Subway,food,110.11,debit,Tuesday,5,TXN001228
+USR002,2026-05-26,DMart,groceries,2438.94,debit,Tuesday,5,TXN001229
+USR002,2026-05-26,Reliance Fresh,groceries,3705.42,debit,Tuesday,5,TXN001230
+USR002,2026-05-27,KFC,food,653.87,debit,Wednesday,5,TXN001231
+USR002,2026-05-27,KFC,food,225.48,debit,Wednesday,5,TXN001232
+USR002,2026-05-27,Myntra,shopping,3793.83,debit,Wednesday,5,TXN001233
+USR002,2026-05-28,Uber,transport,343.77,debit,Thursday,5,TXN001234
+USR002,2026-05-28,Rapido,transport,99.55,debit,Thursday,5,TXN001235
+USR002,2026-05-28,Subway,food,512.18,debit,Thursday,5,TXN001236
+USR002,2026-05-28,Indian Oil,transport,149.16,debit,Thursday,5,TXN001237
+USR002,2026-05-29,Rapido,transport,562.32,debit,Friday,5,TXN001238
+USR002,2026-05-29,Myntra,shopping,4442.42,debit,Friday,5,TXN001239
+USR002,2026-05-30,Hotstar,entertainment,796.84,debit,Saturday,5,TXN001240
+USR002,2026-05-30,BigBasket,groceries,2921.77,debit,Saturday,5,TXN001241
+USR002,2026-05-30,Ola,transport,97.38,debit,Saturday,5,TXN001242
+USR002,2026-05-30,Nykaa,shopping,7453.44,debit,Saturday,5,TXN001243
+USR002,2026-05-31,Ola,transport,144.68,debit,Sunday,5,TXN001244
+USR002,2026-05-31,Rapido,transport,205.43,debit,Sunday,5,TXN001245
+USR002,2026-05-31,DMart,groceries,3138.02,debit,Sunday,5,TXN001246
+USR002,2026-05-31,BigBasket,groceries,1563.04,debit,Sunday,5,TXN001247
+USR002,2026-05-31,McDonald's,food,762.28,debit,Sunday,5,TXN001248
+USR002,2026-06-01,Freelance Payment,salary,69164.33,credit,Monday,6,TXN001249
+USR002,2026-06-01,BWSSB,utilities,1388.72,debit,Monday,6,TXN001250
+USR002,2026-06-01,DMart,groceries,3732.82,debit,Monday,6,TXN001251
+USR002,2026-06-01,Indian Oil,transport,352.02,debit,Monday,6,TXN001252
+USR002,2026-06-01,DMart,groceries,2282.78,debit,Monday,6,TXN001253
+USR002,2026-06-01,Spotify,entertainment,1219.35,debit,Monday,6,TXN001254
+USR002,2026-06-02,Unacademy,education,671.45,debit,Tuesday,6,TXN001255
+USR002,2026-06-02,KFC,food,518.1,debit,Tuesday,6,TXN001256
+USR002,2026-06-03,Swiggy,food,662.07,debit,Wednesday,6,TXN001257
+USR002,2026-06-03,Dominos,food,487.58,debit,Wednesday,6,TXN001258
+USR002,2026-06-03,LPG Booking,utilities,2090.7,debit,Wednesday,6,TXN001259
+USR002,2026-06-03,Ola,transport,202.32,debit,Wednesday,6,TXN001260
+USR002,2026-06-03,1mg,healthcare,3122.27,debit,Wednesday,6,TXN001261
+USR002,2026-06-04,BWSSB,utilities,469.79,debit,Thursday,6,TXN001262
+USR002,2026-06-04,Spotify,entertainment,1125.42,debit,Thursday,6,TXN001263
+USR002,2026-06-05,House Rent,rent,21081.18,debit,Friday,6,TXN001264
+USR002,2026-06-05,BESCOM,utilities,1724.12,debit,Friday,6,TXN001265
+USR002,2026-06-05,Netflix,entertainment,743.12,debit,Friday,6,TXN001266
+USR002,2026-06-06,Rapido,transport,513.43,debit,Saturday,6,TXN001267
+USR002,2026-06-06,KFC,food,462.84,debit,Saturday,6,TXN001268
+USR002,2026-06-07,KFC,food,244.46,debit,Sunday,6,TXN001269
+USR002,2026-06-07,BESCOM,utilities,865.96,debit,Sunday,6,TXN001270
+USR002,2026-06-07,BigBasket,groceries,1308.82,debit,Sunday,6,TXN001271
+USR002,2026-06-07,KFC,food,92.51,debit,Sunday,6,TXN001272
+USR002,2026-06-08,Subway,food,341.16,debit,Monday,6,TXN001273
+USR002,2026-06-08,Uber,transport,488.28,debit,Monday,6,TXN001274
+USR002,2026-06-09,Ola,transport,338.13,debit,Tuesday,6,TXN001275
+USR002,2026-06-09,Netflix,entertainment,759.03,debit,Tuesday,6,TXN001276
+USR002,2026-06-10,RD Transfer,savings,2699.4,debit,Wednesday,6,TXN001277
+USR002,2026-06-10,Rapido,transport,284.13,debit,Wednesday,6,TXN001278
+USR002,2026-06-10,Nykaa,shopping,8229.19,debit,Wednesday,6,TXN001279
+USR002,2026-06-10,PVR Cinemas,entertainment,209.96,debit,Wednesday,6,TXN001280
+USR002,2026-06-10,Reliance Fresh,groceries,2400.82,debit,Wednesday,6,TXN001281
+USR002,2026-06-10,Ajio,shopping,1243.45,debit,Wednesday,6,TXN001282
+USR002,2026-06-11,Subway,food,401.5,debit,Thursday,6,TXN001283
+USR002,2026-06-11,McDonald's,food,350.87,debit,Thursday,6,TXN001284
+USR002,2026-06-11,1mg,healthcare,1840.47,debit,Thursday,6,TXN001285
+USR002,2026-06-11,Blinkit,groceries,717.68,debit,Thursday,6,TXN001286
+USR002,2026-06-11,Hotstar,entertainment,495.16,debit,Thursday,6,TXN001287
+USR002,2026-06-12,Ola,transport,90.98,debit,Friday,6,TXN001288
+USR002,2026-06-12,Ajio,shopping,7986.58,debit,Friday,6,TXN001289
+USR002,2026-06-13,Dominos,food,250.76,debit,Saturday,6,TXN001290
+USR002,2026-06-13,McDonald's,food,723.14,debit,Saturday,6,TXN001291
+USR002,2026-06-13,Subway,food,526.51,debit,Saturday,6,TXN001292
+USR002,2026-06-13,Indian Oil,transport,411.67,debit,Saturday,6,TXN001293
+USR002,2026-06-13,KFC,food,766.13,debit,Saturday,6,TXN001294
+USR002,2026-06-14,Indian Oil,transport,371.01,debit,Sunday,6,TXN001295
+USR002,2026-06-14,Dominos,food,712.5,debit,Sunday,6,TXN001296
+USR002,2026-06-14,Uber,transport,397.64,debit,Sunday,6,TXN001297
+USR002,2026-06-14,Ola,transport,495.71,debit,Sunday,6,TXN001298
+USR002,2026-06-14,Namma Metro,transport,461.53,debit,Sunday,6,TXN001299
+USR002,2026-06-15,Rapido,transport,210.46,debit,Monday,6,TXN001300
+USR002,2026-06-15,DMart,groceries,3698.46,debit,Monday,6,TXN001301
+USR002,2026-06-15,KFC,food,892.04,debit,Monday,6,TXN001302
+USR002,2026-06-15,Flipkart,shopping,9868.29,debit,Monday,6,TXN001303
+USR002,2026-06-16,Swiggy,food,539.22,debit,Tuesday,6,TXN001304
+USR002,2026-06-16,Hotstar,entertainment,1305.75,debit,Tuesday,6,TXN001305
+USR002,2026-06-16,Unacademy,education,2874.44,debit,Tuesday,6,TXN001306
+USR002,2026-06-16,Dominos,food,340.86,debit,Tuesday,6,TXN001307
+USR002,2026-06-17,Blinkit,groceries,3720.58,debit,Wednesday,6,TXN001308
+USR002,2026-06-17,Flipkart,shopping,3098.17,debit,Wednesday,6,TXN001309
+USR002,2026-06-17,Ola,transport,106.54,debit,Wednesday,6,TXN001310
+USR002,2026-06-17,Subway,food,198.08,debit,Wednesday,6,TXN001311
+USR002,2026-06-17,Ola,transport,278.94,debit,Wednesday,6,TXN001312
+USR002,2026-06-18,Reliance Fresh,groceries,3219.04,debit,Thursday,6,TXN001313
+USR002,2026-06-18,Namma Metro,transport,385.25,debit,Thursday,6,TXN001314
+USR002,2026-06-18,Rapido,transport,344.67,debit,Thursday,6,TXN001315

@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "USR001",
+    "name": "Arjun Sharma",
+    "monthly_income": 75000,
+    "savings_goal": 200000,
+    "goal_label": "Emergency Fund",
+    "goal_months": 12,
+    "risk_profile": "moderate"
+  },
+  {
+    "user_id": "USR002",
+    "name": "Priya Nair",
+    "monthly_income": 95000,
+    "savings_goal": 500000,
+    "goal_label": "Home Down Payment",
+    "goal_months": 24,
+    "risk_profile": "aggressive"
+  }
+]
