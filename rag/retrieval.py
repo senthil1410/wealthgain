@@ -1,10 +1,12 @@
 import numpy as np
+from pathlib import Path
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
+BASE_DIR   = Path(__file__).resolve().parent.parent
 embedder   = SentenceTransformer("all-MiniLM-L6-v2")
-rules      = open("data/finance_rules.txt").read().splitlines()
-embeddings = np.load("data/rule_embeddings.npy")
+rules      = open(BASE_DIR / "data/finance_rules.txt", encoding="utf-8").read().splitlines()
+embeddings = np.load(BASE_DIR / "data/rule_embeddings.npy")
 
 def retrieve_rules(query: str, top_k: int = 3) -> list[dict]:
     query_emb = embedder.encode([query])
