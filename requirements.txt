@@ -10,3 +10,4 @@ langgraph
 langfuse
 pymongo
 mcp
+deepeval
